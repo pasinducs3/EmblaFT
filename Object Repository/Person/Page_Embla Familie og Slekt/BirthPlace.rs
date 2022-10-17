@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BirthPlace</name>
+   <tag></tag>
+   <elementGuidId>7c0df8b5-b1a1-4550-a619-23b140d64f13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;ngFormIndividual&quot;]/fieldset/div[3]/div[2]/app-place-input/div/input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ngFormIndividual&quot;]/fieldset/div[3]/div[2]/app-place-input/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;ngFormIndividual&quot;]/fieldset/div[3]/div[2]/app-place-input/div/input</value>
+      <webElementGuid>696bdcfa-17d4-477c-94ef-4070d53c8bfa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

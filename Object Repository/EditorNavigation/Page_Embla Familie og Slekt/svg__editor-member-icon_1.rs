@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg__editor-member-icon_1</name>
+   <tag></tag>
+   <elementGuidId>edae3751-b009-4cf0-8cfa-184ba0103321</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.editor-member-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>b378de88-e02b-4e2a-be24-941eea7ac32f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editor-member-icon</value>
+      <webElementGuid>3f4573ac-870e-4960-93d2-3f7ae8c39763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>808ed6b7-0300-48e4-ad8b-9d987a89ca71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-dashboard[1]/app-subheader-main[1]/div[@class=&quot;sub-header-container&quot;]/app-editors[1]/div[@class=&quot;editors-base-container&quot;]/div[@class=&quot;editor-container&quot;]/svg[@class=&quot;editor-member-icon&quot;]</value>
+      <webElementGuid>319a0e40-d82f-407c-84af-82e045aba818</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ProfileImage</name>
+   <tag></tag>
+   <elementGuidId>3b244dc5-7a46-4407-9212-6032a04ab43d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/div/app-dialog/div/div[2]/app-multimedia-main/div/div[2]/div[2]/app-multimedia-editor/div/div[1]/div[2]/app-media-input/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/app-dialog/div/div[2]/app-multimedia-main/div/div[2]/div[2]/app-multimedia-editor/div/div[1]/div[2]/app-media-input/div/div/input</value>
+      <webElementGuid>dabcaacb-cbbd-482b-a480-0b59179f591e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ft-btn ft-btn-active</value>
+      <webElementGuid>70b2ecef-342d-467f-84a5-ed15d35c9e0f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

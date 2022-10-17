@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Stein Inge Haaland_editor-tree-icon</name>
+   <tag></tag>
+   <elementGuidId>6813289d-c4fc-46a3-b25e-f0f9ca9230ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/div[2]/app-dashboard/app-subheader-main/div/app-editors/div/div[1]/svg</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.editor-tree-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>4c21bb0c-0221-4b0d-9752-b60061620218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editor-tree-icon</value>
+      <webElementGuid>10d8b9ba-7e29-4d29-aa24-eb94c2bec993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>c891e0f5-b638-41f6-b164-eb002bdc79b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/div[2]/app-dashboard/app-subheader-main/div/app-editors/div/div[1]/svg</value>
+      <webElementGuid>bd3426c1-ce1b-4781-ac69-bb8776c40c83</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Kildeliste</name>
+   <tag></tag>
+   <elementGuidId>53c3b5f7-55ab-4a9a-9c81-b7fe543c519f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Personliste'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>6be22f97-ddbb-454e-83dd-a5e3918421f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-menu-item nav-menu-center</value>
+      <webElementGuid>01b94716-b080-4f25-a1dc-7bdd47e8c658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kildeliste</value>
+      <webElementGuid>3b3cbdb6-bea6-41e6-a547-7148318c2bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[1]/app-menu-main[1]/div[@class=&quot;main-header-container&quot;]/div[@class=&quot;right-menu-container&quot;]/nav[@class=&quot;nav-container&quot;]/ol[@class=&quot;main-menu-container&quot;]/li[@class=&quot;nav-menu-item&quot;]/ol[@class=&quot;nav-sub-item&quot;]/li[@class=&quot;nav-menu-item nav-menu-center&quot;]</value>
+      <webElementGuid>7bbbeda4-b288-4bb4-99b8-15e3c3a8e5c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personliste'])[1]/following::li[1]</value>
+      <webElementGuid>3766b7f0-7695-403c-a6c7-841adde2b0aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multimedialiste'])[1]/following::li[2]</value>
+      <webElementGuid>40066d8e-dbda-447d-8953-f58c6e37f047</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hjelp'])[1]/preceding::li[1]</value>
+      <webElementGuid>27aa671f-ce69-4526-9997-edeb50c44f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brukerstøtte'])[1]/preceding::li[1]</value>
+      <webElementGuid>31ea9996-4570-4274-9773-5163acb53230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kildeliste']/parent::*</value>
+      <webElementGuid>27dbd79a-abcc-4ae2-9c76-35bad103fc12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]</value>
+      <webElementGuid>4322fe6a-9d9f-4c63-97de-8bdd8ee7ceab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Kildeliste' or . = 'Kildeliste')]</value>
+      <webElementGuid>0bb00785-62d5-481b-9039-f54870fcaa9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

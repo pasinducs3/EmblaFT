@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Versjon 10</name>
+   <tag></tag>
+   <elementGuidId>6a5424c0-ba1d-4a3f-8e2d-bb4a0d96c1bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='side_nav02']/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#side_nav02 > li.ftv10 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>abdc26ed-e7f9-467d-98a5-416196636d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Member/FTV10</value>
+      <webElementGuid>f02d4c38-a805-4314-b6fc-7e5625db531c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Versjon 10</value>
+      <webElementGuid>9de1d354-7e51-48c9-bc9a-4239140a68ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side_nav02&quot;)/li[@class=&quot;ftv10&quot;]/a[1]</value>
+      <webElementGuid>4f3fdd51-66f7-4ebf-bf47-a497edceae67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='side_nav02']/li[2]/a</value>
+      <webElementGuid>2db32f48-e3c6-485b-8897-7e17ed0b9c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Versjon 10')])[2]</value>
+      <webElementGuid>5c9cebb3-e7f6-4ce8-99d4-b3b706666629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Embla Norsk Familiehistorie'])[2]/following::a[1]</value>
+      <webElementGuid>5c8a058c-83bd-42a0-bb00-b366b8b64848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='free Space'])[1]/following::a[1]</value>
+      <webElementGuid>e0c486d1-f552-492d-97dd-9083363802b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Min profil'])[1]/preceding::a[1]</value>
+      <webElementGuid>1a9a928d-a284-4642-83e9-cbcc0f70755a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mine produkt'])[1]/preceding::a[2]</value>
+      <webElementGuid>2fbcd8bc-c351-4649-9ea3-f0b4f22240fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/Member/FTV10')])[2]</value>
+      <webElementGuid>7646c3a5-544f-4feb-a5a6-55fe8b6ea1ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[2]/a</value>
+      <webElementGuid>77a0062f-95b0-4513-b956-4588835638bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Member/FTV10' and (text() = 'Versjon 10' or . = 'Versjon 10')]</value>
+      <webElementGuid>ea6befc6-c3df-4558-bed5-7b0f6ecada0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

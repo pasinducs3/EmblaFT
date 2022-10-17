@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Slett</name>
+   <tag></tag>
+   <elementGuidId>ee576e26-682a-4275-8e40-193141996428</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ft-btn.active-red</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Lagre'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aa65f4d4-cc06-4eaa-8e37-e41017f372d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ft-btn active-red</value>
+      <webElementGuid>2c4cff98-26e6-401a-b10e-49f80e22f975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-klass</name>
+      <type>Main</type>
+      <value>ft-btn</value>
+      <webElementGuid>85210f63-e098-468b-8305-29ab02bee8d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>5580e42a-f69e-4a88-8ac9-f6cae711d4d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Slett</value>
+      <webElementGuid>ba81b649-62b1-47c6-a35c-cec25250d135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-editor[1]/div[@class=&quot;base-content-wrapper&quot;]/div[@class=&quot;main-content-wrapper&quot;]/app-individual-editor-main[1]/div[@class=&quot;content-wrapper-col2-vf&quot;]/div[1]/div[@class=&quot;col-wrap-v&quot;]/app-individual-editor[1]/div[@class=&quot;ft-form&quot;]/div[@class=&quot;footer&quot;]/button[@class=&quot;ft-btn active-red&quot;]</value>
+      <webElementGuid>ec1bcd57-23ff-4c5d-882a-e1ab5b4ee3f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lagre'])[1]/following::button[1]</value>
+      <webElementGuid>84c11c8d-6561-4e91-9bce-414e5f4bd17c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Det finnes ingen mediafiler'])[1]/following::button[2]</value>
+      <webElementGuid>dead7722-f05b-4a6b-a51f-6f236f2414dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Avbryt'])[2]/preceding::button[1]</value>
+      <webElementGuid>ce5e83fd-4b06-476a-8701-ca75f78eab62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hendelse'])[1]/preceding::button[2]</value>
+      <webElementGuid>4bdbde56-b7c1-4e08-b504-6bb66a15ca16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Slett']/parent::*</value>
+      <webElementGuid>68f74e30-c565-4982-8703-f9890858890f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-individual-editor/div/div[2]/button[2]</value>
+      <webElementGuid>4c9f3862-fbbc-4be2-b111-efd6952e1f5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Slett' or . = 'Slett')]</value>
+      <webElementGuid>76e48835-ca85-47dd-b064-a120ee8b03d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

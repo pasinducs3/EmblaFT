@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input</name>
+   <tag></tag>
+   <elementGuidId>6e0e9b9a-477e-4ef1-81ad-896982c5407d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/app-dialog/div/div[2]/app-add-new-project-main/div/div[2]/div[2]/app-family-project-import-option/div/div[1]/div[4]/div/div/input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/div/app-dialog/div/div[2]/app-add-new-project-main/div/div[2]/div[2]/app-family-project-import-option/div/div[1]/div[4]/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ft-btn ft-btn-active</value>
+      <webElementGuid>fcdb0646-9d84-48cf-a015-c608268d11a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/app-dialog/div/div[2]/app-add-new-project-main/div/div[2]/div[2]/app-family-project-import-option/div/div[1]/div[4]/div/div/input</value>
+      <webElementGuid>b37cff4d-0fcf-442a-a17b-40dfb9063b20</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

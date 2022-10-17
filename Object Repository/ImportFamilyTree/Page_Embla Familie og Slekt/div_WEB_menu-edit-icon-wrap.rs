@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_WEB_menu-edit-icon-wrap</name>
+   <tag></tag>
+   <elementGuidId>c05ef408-83d6-4dd0-9f0d-8520e9efbc44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-edit-icon-wrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='WEB'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ff79bee-eb1b-4270-8f88-d870ef2278ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-edit-icon-wrap</value>
+      <webElementGuid>44ef2d0c-efe3-47d6-b938-f825f526b2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-family-project-main[1]/div[@class=&quot;ft-form&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;list-gallery&quot;]/app-family-project-list[1]/div[@class=&quot;list-content&quot;]/div[@class=&quot;list-container&quot;]/div[1]/div[@class=&quot;item&quot;]/div[@class=&quot;item-options&quot;]/app-drop-menu[1]/div[@class=&quot;menu-container&quot;]/div[@class=&quot;menu-edit-icon-wrap&quot;]</value>
+      <webElementGuid>ac1ae31f-3262-4d6a-ab0d-170221ed6851</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WEB'])[1]/following::div[3]</value>
+      <webElementGuid>537f7c66-cea4-43c2-91c3-e59989f17306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasi Tree 1'])[1]/following::div[3]</value>
+      <webElementGuid>b365037f-cafc-49a5-acff-a3fc78bc341e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eranga Family'])[1]/preceding::div[2]</value>
+      <webElementGuid>f8a06608-76d1-48f6-9568-18bba8914b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WEB'])[2]/preceding::div[2]</value>
+      <webElementGuid>3edfc7ee-2607-45aa-80fb-5817572c4ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-drop-menu/div/div</value>
+      <webElementGuid>0893a858-699b-4545-8570-e9874e8d65e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

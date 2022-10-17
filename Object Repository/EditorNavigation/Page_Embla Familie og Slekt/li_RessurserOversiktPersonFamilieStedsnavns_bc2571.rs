@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_RessurserOversiktPersonFamilieStedsnavns_bc2571</name>
+   <tag></tag>
+   <elementGuidId>5d52f4ab-7df9-437f-98a6-17dd5cc2ed5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Artistisk tre'])[1]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>fa0a684a-993e-40f7-9dc9-097f36b1f367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-menu-item</value>
+      <webElementGuid>bed70433-4580-4c2e-9523-94194c8db97b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RessurserOversiktPersonFamilieStedsnavnslisteMultimedialistePersonlisteKildeliste</value>
+      <webElementGuid>ddf55d49-2b80-4078-a3f7-82619a7c7e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/div[1]/app-menu-main/div/div[1]/nav/ol/li[3]</value>
+      <webElementGuid>f44eb938-7b1d-4412-bdda-02aa559ac224</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artistisk tre'])[1]/following::li[1]</value>
+      <webElementGuid>d6c60531-a9fa-4d92-bf26-31cf0ffb018e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forfedretavle'])[1]/following::li[2]</value>
+      <webElementGuid>fe9898ab-743b-492f-9a43-1181818ed77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>35915af7-b08a-4234-a88b-c1f26dd572bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'RessurserOversiktPersonFamilieStedsnavnslisteMultimedialistePersonlisteKildeliste' or . = 'RessurserOversiktPersonFamilieStedsnavnslisteMultimedialistePersonlisteKildeliste')]</value>
+      <webElementGuid>6d1cbd09-1506-4265-a588-5ee9ad126db3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

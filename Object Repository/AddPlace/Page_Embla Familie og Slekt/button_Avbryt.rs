@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Avbryt</name>
+   <tag></tag>
+   <elementGuidId>7cf0495d-e9e0-4a24-84c6-2eec651ec9d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Abc,VV,AAA,AAA,123,sss'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ft-btn.ft-btn-active-not-selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>37d1cf96-06cd-4998-b56e-842a1f6d9a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ft-btn ft-btn-active-not-selected</value>
+      <webElementGuid>7741f2b3-9c4e-474e-a6e3-89be3dca8e3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Avbryt</value>
+      <webElementGuid>32c83c85-48be-4ffb-b9c5-443153758af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/app-dialog[1]/div[1]/div[@class=&quot;dialog-container first-dialog active-dialog&quot;]/app-place-main[1]/div[1]/div[@class=&quot;tab-container app-dark-bg&quot;]/div[@class=&quot;tab-forms app-light-bg&quot;]/app-places[1]/div[@class=&quot;ft-form&quot;]/div[@class=&quot;footer&quot;]/button[@class=&quot;ft-btn ft-btn-active-not-selected&quot;]</value>
+      <webElementGuid>cd76b52a-0f91-4725-bdce-f89ae6620313</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abc,VV,AAA,AAA,123,sss'])[1]/following::button[1]</value>
+      <webElementGuid>ef40e753-a9fd-4659-8c39-36748f3e9039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stedsnavnsliste av Pasi Tree 1 tre'])[1]/following::button[1]</value>
+      <webElementGuid>d5881934-5ced-47d7-ae00-d98d5c328637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hjem'])[1]/preceding::button[1]</value>
+      <webElementGuid>ef6fc638-eb68-4338-96ca-edc3c90394b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rapporter'])[1]/preceding::button[1]</value>
+      <webElementGuid>1c94cfef-b92c-4d21-b01a-7e84ab1ee9a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Avbryt']/parent::*</value>
+      <webElementGuid>523e5ff4-dbdc-4028-91c9-8e96c4334c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>8feb4e1e-feb1-4b55-a397-f7512736904b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Avbryt' or . = 'Avbryt')]</value>
+      <webElementGuid>9d0b6d0f-f764-4fb0-a483-88c8a8cc2a88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

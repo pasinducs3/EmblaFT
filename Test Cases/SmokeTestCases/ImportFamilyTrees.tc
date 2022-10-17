@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ImportFamilyTrees</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d0b2f19-1b22-4cef-9b22-7bcd5e904d17</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21e39b31-b063-4f6d-bed0-44f3947a249b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'D:\\\\EmblaFT\\\\Files\\\\pasitest.ged'</defaultValue>
+      <description></description>
+      <id>21e39b31-b063-4f6d-bed0-44f3947a249b</id>
+      <masked>true</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

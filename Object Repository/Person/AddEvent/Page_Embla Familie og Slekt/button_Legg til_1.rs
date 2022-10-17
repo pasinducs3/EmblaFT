@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Legg til_1</name>
+   <tag></tag>
+   <elementGuidId>9740ba1f-7669-4b90-8e3a-dea96a440ec3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ft-btn.ft-btn-inactive.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a8cc912c-247f-4dc5-89ec-eea900b353a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ft-btn ft-btn-inactive active</value>
+      <webElementGuid>0f819a1b-21f8-4aac-93e4-0baeab91903c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>form</name>
+      <type>Main</type>
+      <value>ngFormSource</value>
+      <webElementGuid>b83ecaeb-a2e5-4ef8-bf3b-7793df603b9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>17f39020-74e5-4272-bb10-faafbdaf8daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Legg til</value>
+      <webElementGuid>2418d2d3-148c-4ed0-a95f-b5bee569e985</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/app-dialog[1]/div[1]/div[@class=&quot;dialog-container first-dialog active-dialog&quot;]/app-source-main[1]/div[1]/div[@class=&quot;tab-container app-dark-bg&quot;]/div[@class=&quot;tab-forms app-light-bg&quot;]/app-source-editor[1]/div[@class=&quot;ft-form&quot;]/div[@class=&quot;footer&quot;]/button[@class=&quot;ft-btn ft-btn-inactive active&quot;]</value>
+      <webElementGuid>d2142afb-08fa-49cc-b8c9-0d3e4e63c583</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>fb14aa38-3beb-4ec0-bbfd-19912b06cf8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingen hendelser for denne kilde'])[1]/following::button[1]</value>
+      <webElementGuid>d5f305be-9a16-4aee-aa86-8b642ec3960e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notater'])[1]/following::button[1]</value>
+      <webElementGuid>65a3f552-b508-42d1-9b51-289223a00daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Avbryt'])[1]/preceding::button[1]</value>
+      <webElementGuid>9dd844a4-cf6a-4e98-977f-f4593df70397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hjem'])[1]/preceding::button[2]</value>
+      <webElementGuid>7d5beafe-8c85-4f6e-a02b-f2889a2f64c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Legg til']/parent::*</value>
+      <webElementGuid>31f7eb8b-8658-48cb-881c-4a7b0302c0a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>b3967939-e1a9-4cbd-8b13-00cfcf61d0ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@form = 'ngFormSource' and @type = 'submit' and (text() = 'Legg til' or . = 'Legg til')]</value>
+      <webElementGuid>09274700-9327-4aaa-8a97-5d151f985c82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

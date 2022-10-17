@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Stedsnavnsliste</name>
+   <tag></tag>
+   <elementGuidId>77432218-230a-49ee-8c1d-36da0fd4c755</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Familie'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ebce6719-87b5-4102-8065-b796460b3245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-menu-item nav-menu-center</value>
+      <webElementGuid>8a40a965-d37f-49df-b938-2aa163e02403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Stedsnavnsliste</value>
+      <webElementGuid>a4048dce-7b33-43df-ba4c-9eedc3f3ac2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[1]/app-menu-main[1]/div[@class=&quot;main-header-container&quot;]/div[@class=&quot;right-menu-container&quot;]/nav[@class=&quot;nav-container&quot;]/ol[@class=&quot;main-menu-container&quot;]/li[@class=&quot;nav-menu-item&quot;]/ol[@class=&quot;nav-sub-item&quot;]/li[@class=&quot;nav-menu-item nav-menu-center&quot;]</value>
+      <webElementGuid>ef4deca2-f223-4933-ab3c-15678761532c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Familie'])[1]/following::li[1]</value>
+      <webElementGuid>5bdb8c38-3d8b-48e9-889c-2d653b785a7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Person'])[1]/following::li[2]</value>
+      <webElementGuid>385d9853-c692-4f6e-a201-a206c7696568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multimedialiste'])[1]/preceding::li[1]</value>
+      <webElementGuid>64d6e3f7-e1b7-40bd-aca9-540c49cf66de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personliste'])[1]/preceding::li[2]</value>
+      <webElementGuid>251859f4-34ef-41da-9a08-bb2e5e53caae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Stedsnavnsliste']/parent::*</value>
+      <webElementGuid>323ccec3-cc4e-4981-8ec8-9d24f6d75c06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ol/li[4]</value>
+      <webElementGuid>0db36133-2a79-48b9-be38-7dd637212b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Stedsnavnsliste' or . = 'Stedsnavnsliste')]</value>
+      <webElementGuid>9b521285-69a8-4708-b4d9-6e4fd9f114d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

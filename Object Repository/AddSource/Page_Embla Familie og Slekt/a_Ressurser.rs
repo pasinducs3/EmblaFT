@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ressurser</name>
+   <tag></tag>
+   <elementGuidId>ecb1cb61-5798-4406-bc2e-0e0154d873c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Ressurser')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1962ac51-88ff-4f6e-99b5-722db2feb89b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link nav-menu-center</value>
+      <webElementGuid>efe2c05e-4097-4ae7-98f0-ad7852596168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ressurser</value>
+      <webElementGuid>b1229eba-47d5-45c5-b901-c2516f70affb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[1]/app-menu-main[1]/div[@class=&quot;main-header-container&quot;]/div[@class=&quot;right-menu-container&quot;]/nav[@class=&quot;nav-container&quot;]/ol[@class=&quot;main-menu-container&quot;]/li[@class=&quot;nav-menu-item&quot;]/a[@class=&quot;menu-link nav-menu-center&quot;]</value>
+      <webElementGuid>4c6f8a7b-b6ea-4b0b-9f79-98a6581fa7b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ressurser')]</value>
+      <webElementGuid>fa575164-8dd6-4c2b-a1cd-8b990f512d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artistisk tre'])[1]/following::a[1]</value>
+      <webElementGuid>b731d2a5-b4e4-4e1c-85c0-109c8e06b67f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forfedretavle'])[1]/following::a[1]</value>
+      <webElementGuid>c683f122-6cb3-44be-969a-c8994ae9db68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oversikt'])[1]/preceding::a[1]</value>
+      <webElementGuid>78270f7d-b16a-4fa3-86b0-1920a7610895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Person'])[1]/preceding::a[1]</value>
+      <webElementGuid>d5784a56-8494-4ee2-9ebb-645937283d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ressurser']/parent::*</value>
+      <webElementGuid>678f8ba0-fda9-4c31-8d5b-932d18c6f4f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>02bb840a-2982-4f0b-b7b4-e68a0468e24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Ressurser' or . = 'Ressurser')]</value>
+      <webElementGuid>3ce82724-3fbc-447a-b79f-419d848fe4b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

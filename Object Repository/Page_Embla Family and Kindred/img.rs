@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>93922553-17a1-4939-bee9-f6021208cd8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.logo-container > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>75a1db41-c3bd-44e9-9abc-7210c5da8d93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/logo.png</value>
+      <webElementGuid>8891130d-a7a0-489c-ace8-e8bfd066c288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;translated-ltr&quot;]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[1]/app-menu-main[1]/div[@class=&quot;main-header-container&quot;]/div[@class=&quot;right-menu-container&quot;]/div[@class=&quot;logo-container&quot;]/img[1]</value>
+      <webElementGuid>81966dc9-800d-48ac-8721-5407b8bbc5fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/img</value>
+      <webElementGuid>08c29adf-6004-4305-94f6-b7007921ca88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/logo.png']</value>
+      <webElementGuid>782c3e4f-3afe-4696-baf2-f455e50820e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

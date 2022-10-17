@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SmokeTestSuite" time="158.617" tests="9" failures="1" errors="0">
+   <testsuite name="SmokeTestSuite" tests="9" failures="1" errors="0" time="158.617" skipped="0" timestamp="2022-10-11 09:32:04" hostname="pasindus - ITELPTD031.embla.lk" id="Test Suites/SmokeTestSuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\PasinduS\\Katalon Studio\\EmblaFT\\Reports\\20221011_093150\\SmokeTestSuite\\20221011_093150"/>
+         <property name="logFiles" value="C:\\Users\\PasinduS\\Katalon Studio\\EmblaFT\\Reports\\20221011_093150\\SmokeTestSuite\\20221011_093150\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\PasinduS\\Katalon Studio\\EmblaFT\\Reports\\20221011_093150\\SmokeTestSuite\\20221011_093150\\1665461083417.png"/>
+         <property name="hostName" value="pasindus - ITELPTD031.embla.lk"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.4.1.208"/>
+         <property name="browser" value="Chrome 106.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.52"/>
+         <property name="sessionId" value="59836baba92dc452c5afdb6cae2705b3"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/SmokeTestCases/Login" time="36.21" classname="Test Cases/SmokeTestCases/Login" status="PASSED">
+         <system-out><![CDATA[2022-10-11 09:32:05 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/Login: Test Cases/SmokeTestCases/Login
+
+2022-10-11 09:32:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-10-11 09:32:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-10-11 09:32:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-10-11 09:32:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-10-11 09:32:07 - [TEST_STEP][PASSED] - deleteAllCookies(): Delete all cookies successfully
+
+2022-10-11 09:32:07 - [MESSAGE][PASSED] - Delete all cookies successfully
+
+2022-10-11 09:32:07 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-10-11 09:32:08 - [MESSAGE][PASSED] - Current window maximized
+
+2022-10-11 09:32:08 - [TEST_STEP][PASSED] - navigateToUrl("https://dev.embla.no/"): Navigate to 'https://dev.embla.no/' successfully
+
+2022-10-11 09:32:12 - [MESSAGE][PASSED] - Navigate to 'https://dev.embla.no/' successfully
+
+2022-10-11 09:32:12 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-10-11 09:32:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-10-11 09:32:15 - [TEST_STEP][PASSED] - click(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email")): Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email' is clicked on
+
+2022-10-11 09:32:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email' is clicked on
+
+2022-10-11 09:32:15 - [TEST_STEP][PASSED] - setText(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email", ["variable":"eranga@embla.asia"]), "eranga@embla.asia"): Text 'eranga@embla.asia' is set on object 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email'
+
+2022-10-11 09:32:16 - [MESSAGE][PASSED] - Text 'eranga@embla.asia' is set on object 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email'
+
+2022-10-11 09:32:16 - [TEST_STEP][PASSED] - click(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password")): Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password' is clicked on
+
+2022-10-11 09:32:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password' is clicked on
+
+2022-10-11 09:32:16 - [TEST_STEP][PASSED] - setText(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password"), "test123"): Text 'test123' is set on object 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password'
+
+2022-10-11 09:32:17 - [MESSAGE][PASSED] - Text 'test123' is set on object 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password'
+
+2022-10-11 09:32:17 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-10-11 09:32:18 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-10-11 09:32:18 - [TEST_STEP][PASSED] - click(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_login_locktop login2")): Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_login_locktop login2' is clicked on
+
+2022-10-11 09:32:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_login_locktop login2' is clicked on
+
+2022-10-11 09:32:26 - [TEST_STEP][PASSED] - navigateToUrl("https://dev.embla.no/Account/Login"): Navigate to 'https://dev.embla.no/Account/Login' successfully
+
+2022-10-11 09:32:27 - [MESSAGE][PASSED] - Navigate to 'https://dev.embla.no/Account/Login' successfully
+
+2022-10-11 09:32:27 - [TEST_STEP][PASSED] - waitForPageLoad(0): Wait for page load successfully
+
+2022-10-11 09:32:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-11 09:32:27 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-11 09:32:27 - [TEST_STEP][PASSED] - click(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/a_Versjon 10")): Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/a_Versjon 10' is clicked on
+
+2022-10-11 09:32:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/a_Versjon 10' is clicked on
+
+2022-10-11 09:32:38 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-10-11 09:32:41 - [MESSAGE][PASSED] - Delayed 3 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/CreateNewFamilyTree" time="37.805" classname="Test Cases/SmokeTestCases/CreateNewFamilyTree" status="PASSED">
+         <system-out><![CDATA[2022-10-11 09:32:41 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/CreateNewFamilyTree: Test Cases/SmokeTestCases/CreateNewFamilyTree
+
+2022-10-11 09:32:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_ Administrere familietrrOppret_4b7e8e")): Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_ Administrere familietrrOppret_4b7e8e' is clicked on
+
+2022-10-11 09:32:45 - [MESSAGE][PASSED] - Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_ Administrere familietrrOppret_4b7e8e' is clicked on
+
+2022-10-11 09:32:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Opprett nytt slektstre")): Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Opprett nytt slektstre' is clicked on
+
+2022-10-11 09:32:45 - [MESSAGE][PASSED] - Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Opprett nytt slektstre' is clicked on
+
+2022-10-11 09:32:45 - [TEST_STEP][PASSED] - setText(findTestObject("CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Navnet til familietreet_ProjectName"), "pasi123"): Text 'pasi123' is set on object 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Navnet til familietreet_ProjectName'
+
+2022-10-11 09:32:46 - [MESSAGE][PASSED] - Text 'pasi123' is set on object 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Navnet til familietreet_ProjectName'
+
+2022-10-11 09:32:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Fornavn_GivenName"), "pasi"): Text 'pasi' is set on object 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Fornavn_GivenName'
+
+2022-10-11 09:32:47 - [MESSAGE][PASSED] - Text 'pasi' is set on object 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Fornavn_GivenName'
+
+2022-10-11 09:32:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Etternavn_LastName"), "chathu"): Text 'chathu' is set on object 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Etternavn_LastName'
+
+2022-10-11 09:32:48 - [MESSAGE][PASSED] - Text 'chathu' is set on object 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Etternavn_LastName'
+
+2022-10-11 09:32:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Mann_gender")): Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Mann_gender' is clicked on
+
+2022-10-11 09:32:48 - [MESSAGE][PASSED] - Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Mann_gender' is clicked on
+
+2022-10-11 09:32:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/button_Lagre")): Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/button_Lagre' is clicked on
+
+2022-10-11 09:32:49 - [MESSAGE][PASSED] - Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/button_Lagre' is clicked on
+
+2022-10-11 09:32:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-11 09:33:18 - [MESSAGE][PASSED] - Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-11 09:33:18 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-11 09:33:19 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/MemberEditor" time="6.67" classname="Test Cases/SmokeTestCases/MemberEditor" status="PASSED">
+         <system-out><![CDATA[2022-10-11 09:33:19 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/MemberEditor: Test Cases/SmokeTestCases/MemberEditor
+
+2022-10-11 09:33:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser")): Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser' is clicked on
+
+2022-10-11 09:33:23 - [MESSAGE][PASSED] - Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser' is clicked on
+
+2022-10-11 09:33:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person")): Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person' is clicked on
+
+2022-10-11 09:33:23 - [MESSAGE][PASSED] - Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person' is clicked on
+
+2022-10-11 09:33:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-11 09:33:25 - [MESSAGE][PASSED] - Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/FamilyEditor" time="7.506" classname="Test Cases/SmokeTestCases/FamilyEditor" status="PASSED">
+         <system-out><![CDATA[2022-10-11 09:33:25 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/FamilyEditor: Test Cases/SmokeTestCases/FamilyEditor
+
+2022-10-11 09:33:26 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-11 09:33:26 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-11 09:33:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571' is clicked on
+
+2022-10-11 09:33:30 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571' is clicked on
+
+2022-10-11 09:33:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_Familie")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_Familie' is clicked on
+
+2022-10-11 09:33:30 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_Familie' is clicked on
+
+2022-10-11 09:33:30 - [TEST_STEP][PASSED] - click(findTestObject("EditorNavigation/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-11 09:33:33 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-11 09:33:33 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-11 09:33:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-11 09:33:33 - [MESSAGE][PASSED] - Wait for page load successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/PublishFanChartReport" time="11.265" classname="Test Cases/SmokeTestCases/PublishFanChartReport" status="PASSED">
+         <system-out><![CDATA[2022-10-11 09:33:33 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/PublishFanChartReport: Test Cases/SmokeTestCases/PublishFanChartReport
+
+2022-10-11 09:33:33 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-11 09:33:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-11 09:33:33 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-11 09:33:33 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-11 09:33:34 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-11 09:33:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84")): Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84' is clicked on
+
+2022-10-11 09:33:37 - [MESSAGE][PASSED] - Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84' is clicked on
+
+2022-10-11 09:33:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_Anesirkel (blader)")): Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_Anesirkel (blader)' is clicked on
+
+2022-10-11 09:33:37 - [MESSAGE][PASSED] - Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_Anesirkel (blader)' is clicked on
+
+2022-10-11 09:33:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/div_Publiser")): Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/div_Publiser' is clicked on
+
+2022-10-11 09:33:41 - [MESSAGE][PASSED] - Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/div_Publiser' is clicked on
+
+2022-10-11 09:33:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/input_Tittel_reportTitle"), "Pasi"): Text 'Pasi' is set on object 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/input_Tittel_reportTitle'
+
+2022-10-11 09:33:41 - [MESSAGE][PASSED] - Text 'Pasi' is set on object 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/input_Tittel_reportTitle'
+
+2022-10-11 09:33:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/button_Publiser")): Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/button_Publiser' is clicked on
+
+2022-10-11 09:33:42 - [MESSAGE][PASSED] - Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/button_Publiser' is clicked on
+
+2022-10-11 09:33:42 - [TEST_STEP][PASSED] - click(findTestObject("EditorNavigation/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-11 09:33:44 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/ViewFanChartReport" time="7.609" classname="Test Cases/SmokeTestCases/ViewFanChartReport" status="PASSED">
+         <system-out><![CDATA[2022-10-11 09:33:44 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/ViewFanChartReport: Test Cases/SmokeTestCases/ViewFanChartReport
+
+2022-10-11 09:33:44 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-11 09:33:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-11 09:33:44 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-11 09:33:44 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-11 09:33:45 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-11 09:33:45 - [TEST_STEP][PASSED] - click(findTestObject("EditorNavigation/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-11 09:33:46 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-11 09:33:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84")): Object: 'Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84' is clicked on
+
+2022-10-11 09:33:46 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84' is clicked on
+
+2022-10-11 09:33:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_Anesirkel")): Object: 'Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_Anesirkel' is clicked on
+
+2022-10-11 09:33:49 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_Anesirkel' is clicked on
+
+2022-10-11 09:33:49 - [TEST_STEP][PASSED] - click(findTestObject("EditorNavigation/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-11 09:33:52 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/MulitimediaList" time="8.001" classname="Test Cases/SmokeTestCases/MulitimediaList" status="PASSED">
+         <system-out><![CDATA[2022-10-11 09:33:52 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/MulitimediaList: Test Cases/SmokeTestCases/MulitimediaList
+
+2022-10-11 09:33:52 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-11 09:33:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-11 09:33:52 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-11 09:33:52 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-11 09:33:53 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-11 09:33:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571")): Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571' is clicked on
+
+2022-10-11 09:33:56 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571' is clicked on
+
+2022-10-11 09:33:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_Multimedialiste")): Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_Multimedialiste' is clicked on
+
+2022-10-11 09:33:57 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_Multimedialiste' is clicked on
+
+2022-10-11 09:33:57 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-11 09:33:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-11 09:33:57 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-11 09:33:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt")): Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt' is clicked on
+
+2022-10-11 09:33:58 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt' is clicked on
+
+2022-10-11 09:33:58 - [TEST_STEP][PASSED] - click(findTestObject("CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem"), STOP_ON_FAILURE): Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-11 09:34:00 - [MESSAGE][PASSED] - Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/ExportFamilyTrees" time="18.487" classname="Test Cases/SmokeTestCases/ExportFamilyTrees" status="PASSED">
+         <system-out><![CDATA[2022-10-11 09:34:00 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/ExportFamilyTrees: Test Cases/SmokeTestCases/ExportFamilyTrees
+
+2022-10-11 09:34:00 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-11 09:34:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-11 09:34:00 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-11 09:34:00 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-11 09:34:01 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-11 09:34:01 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/i_Pasi_arrow down arrow-black")): Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/i_Pasi_arrow down arrow-black' is hovered
+
+2022-10-11 09:34:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/i_Pasi_arrow down arrow-black' is hovered
+
+2022-10-11 09:34:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Administrere familietrr")): Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Administrere familietrr' is clicked on
+
+2022-10-11 09:34:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Administrere familietrr' is clicked on
+
+2022-10-11 09:34:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap")): Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap' is clicked on
+
+2022-10-11 09:34:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap' is clicked on
+
+2022-10-11 09:34:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Eksport")): Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Eksport' is clicked on
+
+2022-10-11 09:34:06 - [MESSAGE][PASSED] - Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Eksport' is clicked on
+
+2022-10-11 09:34:06 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/select_Velg typeGEDCOM"), "GEDCOM", true): All options with value 'GEDCOM' are selected in object 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/select_Velg typeGEDCOM'  using regular expression
+
+2022-10-11 09:34:07 - [MESSAGE][PASSED] - All options with value 'GEDCOM' are selected in object 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/select_Velg typeGEDCOM'  using regular expression
+
+2022-10-11 09:34:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/button_Eksporter fil")): Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/button_Eksporter fil' is clicked on
+
+2022-10-11 09:34:08 - [MESSAGE][PASSED] - Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/button_Eksporter fil' is clicked on
+
+2022-10-11 09:34:08 - [TEST_STEP][PASSED] - delay(10, STOP_ON_FAILURE): Delayed 10 second(s)
+
+2022-10-11 09:34:18 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2022-10-11 09:34:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-11 09:34:18 - [MESSAGE][PASSED] - Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/a_Hjem' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/ImportFamilyTrees" time="24.762" classname="Test Cases/SmokeTestCases/ImportFamilyTrees" status="FAILED">
+         <failure type="FAILED" message="Test Cases/SmokeTestCases/ImportFamilyTrees FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ImportFamilyTrees.run(ImportFamilyTrees:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665460910429.run(TempTestSuite1665460910429.groovy:36)
+Caused by: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ITELPTD031', ip: '192.168.1.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.21 (71f4e2c9a6f3..., userDataDir: C:\Users\PasinduS\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:4438}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59836baba92dc452c5afdb6cae2705b3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2022-10-11 09:34:18 - [TEST_CASE][FAILED] - Test Cases/SmokeTestCases/ImportFamilyTrees: Test Cases/SmokeTestCases/ImportFamilyTrees FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ImportFamilyTrees.run(ImportFamilyTrees:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665460910429.run(TempTestSuite1665460910429.groovy:36)
+Caused by: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ITELPTD031', ip: '192.168.1.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.21 (71f4e2c9a6f3..., userDataDir: C:\Users\PasinduS\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:4438}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59836baba92dc452c5afdb6cae2705b3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2022-10-11 09:34:19 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-11 09:34:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-11 09:34:19 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-11 09:34:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_Administrere familietrrOpprett nyt_597acc")): Object: 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_Administrere familietrrOpprett nyt_597acc' is clicked on
+
+2022-10-11 09:34:22 - [MESSAGE][PASSED] - Object: 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_Administrere familietrrOpprett nyt_597acc' is clicked on
+
+2022-10-11 09:34:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_Administrere familietrr")): Object: 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_Administrere familietrr' is clicked on
+
+2022-10-11 09:34:22 - [MESSAGE][PASSED] - Object: 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_Administrere familietrr' is clicked on
+
+2022-10-11 09:34:22 - [TEST_STEP][PASSED] - waitForPageLoad(1, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-11 09:34:22 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-11 09:34:22 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap")): Unable to click on object 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ImportFamilyTrees.run(ImportFamilyTrees:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665460910429.run(TempTestSuite1665460910429.groovy:36)
+Caused by: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ITELPTD031', ip: '192.168.1.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.21 (71f4e2c9a6f3..., userDataDir: C:\Users\PasinduS\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:4438}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59836baba92dc452c5afdb6cae2705b3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1664967157774.run(Script1664967157774.groovy:28)
+	... 13 more
+)
+
+2022-10-11 09:34:43 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ImportFamilyTrees.run(ImportFamilyTrees:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665460910429.run(TempTestSuite1665460910429.groovy:36)
+Caused by: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ITELPTD031', ip: '192.168.1.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.21 (71f4e2c9a6f3..., userDataDir: C:\Users\PasinduS\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:4438}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59836baba92dc452c5afdb6cae2705b3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1664967157774.run(Script1664967157774.groovy:28)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\PasinduS\\Katalon Studio\\EmblaFT\\Reports\\20221011_093150\\SmokeTestSuite\\20221011_093150\\1665461083417.png]]]]></system-out>
+         <system-err><![CDATA[2022-10-11 09:34:18 - [TEST_CASE][FAILED] - Test Cases/SmokeTestCases/ImportFamilyTrees: Test Cases/SmokeTestCases/ImportFamilyTrees FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ImportFamilyTrees.run(ImportFamilyTrees:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665460910429.run(TempTestSuite1665460910429.groovy:36)
+Caused by: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ITELPTD031', ip: '192.168.1.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.21 (71f4e2c9a6f3..., userDataDir: C:\Users\PasinduS\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:4438}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59836baba92dc452c5afdb6cae2705b3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-10-11 09:32:04 - [TEST_SUITE][FAILED] - SmokeTestSuite: Test Cases/SmokeTestCases/ImportFamilyTrees FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ImportFamilyTrees.run(ImportFamilyTrees:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665460910429.run(TempTestSuite1665460910429.groovy:36)
+Caused by: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ITELPTD031', ip: '192.168.1.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.21 (71f4e2c9a6f3..., userDataDir: C:\Users\PasinduS\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:4438}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59836baba92dc452c5afdb6cae2705b3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2022-10-11 09:32:04 - [TEST_SUITE][FAILED] - SmokeTestSuite: Test Cases/SmokeTestCases/ImportFamilyTrees FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ImportFamilyTree/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at ImportFamilyTrees.run(ImportFamilyTrees:28)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665460910429.run(TempTestSuite1665460910429.groovy:36)
+Caused by: org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=106.0.5249.103)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'ITELPTD031', ip: '192.168.1.52', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.103, chrome: {chromedriverVersion: 106.0.5249.21 (71f4e2c9a6f3..., userDataDir: C:\Users\PasinduS\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:4438}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 59836baba92dc452c5afdb6cae2705b3
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

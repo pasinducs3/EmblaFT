@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AddProof</name>
+   <tag></tag>
+   <elementGuidId>4aeb24f1-b2fa-4e5a-a420-6baa5205b40c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/div[2]/app-editor/div/div/app-individual-editor-main/div/div/div[2]/app-events-main/div/div/div[2]/app-event-form/div/div[1]/form/fieldset/div[6]/div[2]/label/img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/div/div[2]/app-editor/div/div/app-individual-editor-main/div/div/div[2]/app-events-main/div/div/div[2]/app-event-form/div/div[1]/form/fieldset/div[6]/div[2]/label/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/div[2]/app-editor/div/div/app-individual-editor-main/div/div/div[2]/app-events-main/div/div/div[2]/app-event-form/div/div[1]/form/fieldset/div[6]/div[2]/label/img</value>
+      <webElementGuid>3ecea57f-a67b-4b28-9c0d-19d6da1bea71</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

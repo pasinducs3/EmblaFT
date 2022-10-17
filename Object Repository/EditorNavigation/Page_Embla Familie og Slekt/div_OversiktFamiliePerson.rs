@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OversiktFamiliePerson</name>
+   <tag></tag>
+   <elementGuidId>06389c7a-b1ab-4de0-93c7-5f6d46a38587</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Stein Inge Haaland'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.editors-base-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8773d118-fcd3-418f-b44a-2d1a0a2c53e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editors-base-container</value>
+      <webElementGuid>5ab8c5dc-d5cd-4194-b1eb-91e64a2a22c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Oversikt|Familie|Person</value>
+      <webElementGuid>2f2ef12a-3a21-4b9d-a240-31e94434a7db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-dashboard[1]/app-subheader-main[1]/div[@class=&quot;sub-header-container&quot;]/app-editors[1]/div[@class=&quot;editors-base-container&quot;]</value>
+      <webElementGuid>fb7e86ab-5425-438f-b421-c9335cb0b7e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stein Inge Haaland'])[1]/following::div[1]</value>
+      <webElementGuid>e488225b-4f56-460b-9329-81ee1551341a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KDU FT'])[1]/following::div[3]</value>
+      <webElementGuid>51684fa3-56ce-4bd1-a28b-42b98b7f35ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-editors/div</value>
+      <webElementGuid>08749153-51b5-40df-9d99-8d3f9cd60505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Oversikt|Familie|Person' or . = 'Oversikt|Familie|Person')]</value>
+      <webElementGuid>96a136c7-b2de-4379-a2ed-9bc0faff0734</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Hjem</name>
+   <tag></tag>
+   <elementGuidId>f8249d07-03c0-4831-a721-82312d7c9421</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-menu-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Avbryt'])[1]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f6a6f235-ac68-4db2-a776-1f9e4c06e3ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-menu-item</value>
+      <webElementGuid>39ceca8a-bc1e-42fc-8543-b94d971d3058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hjem</value>
+      <webElementGuid>e5137deb-2ccc-4e3c-939a-bb21edd2a983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[1]/app-menu-main[1]/div[@class=&quot;main-header-container&quot;]/div[@class=&quot;right-menu-container&quot;]/nav[@class=&quot;nav-container&quot;]/ol[@class=&quot;main-menu-container&quot;]/li[@class=&quot;nav-menu-item&quot;]</value>
+      <webElementGuid>a97faf79-7fde-4f95-96fd-a60a0a3d9432</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Avbryt'])[1]/following::li[1]</value>
+      <webElementGuid>d9defd68-fec3-4636-9fdd-022bb4e5a31f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eksporter fil'])[1]/following::li[1]</value>
+      <webElementGuid>c88e55fe-fc0d-45f4-907a-bf8e65535182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rapporter'])[1]/preceding::li[1]</value>
+      <webElementGuid>31fc8348-dfc6-43a1-b70a-87f13e2eedb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>f4f4ea46-0cf0-4b3b-ba9f-5b5910dba529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Hjem' or . = 'Hjem')]</value>
+      <webElementGuid>63f50c45-5d05-48d5-9105-3f01b22411c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

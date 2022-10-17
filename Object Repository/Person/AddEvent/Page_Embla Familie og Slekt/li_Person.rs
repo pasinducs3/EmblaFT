@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Person</name>
+   <tag></tag>
+   <elementGuidId>af5ffd3f-bd6c-49c2-a6b2-320687d9b45f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Oversikt'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>51a95a9a-0603-4bc5-9069-cb5d1edf4c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-menu-item nav-menu-center</value>
+      <webElementGuid>44694caa-8ac3-4ff2-b265-ebc17d6885f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Person</value>
+      <webElementGuid>08e76903-6e01-4aed-8b5b-5206821242c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[1]/app-menu-main[1]/div[@class=&quot;main-header-container&quot;]/div[@class=&quot;right-menu-container&quot;]/nav[@class=&quot;nav-container&quot;]/ol[@class=&quot;main-menu-container&quot;]/li[@class=&quot;nav-menu-item&quot;]/ol[@class=&quot;nav-sub-item&quot;]/li[@class=&quot;nav-menu-item nav-menu-center&quot;]</value>
+      <webElementGuid>b1156701-67fd-47a5-8c9e-52fdcea87903</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oversikt'])[1]/following::li[1]</value>
+      <webElementGuid>e660db9d-5139-452a-be05-f929459ff228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ressurser'])[1]/following::li[2]</value>
+      <webElementGuid>b31bd87c-f9b0-4e17-a0f7-651827bdb2b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Familie'])[1]/preceding::li[1]</value>
+      <webElementGuid>a0cbb529-8b59-4638-ba57-dd939eca1b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stedsnavnsliste'])[1]/preceding::li[2]</value>
+      <webElementGuid>43b48115-ae68-4c48-ad52-c29e3c82c590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Person']/parent::*</value>
+      <webElementGuid>55a63b93-b3fd-4371-94d7-fc2699c54849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ol/li[2]</value>
+      <webElementGuid>0281b307-721a-48b8-9ea0-504cc732fa1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Person' or . = 'Person')]</value>
+      <webElementGuid>c9b8027e-3f99-412d-9cfc-b7d6a351e4fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

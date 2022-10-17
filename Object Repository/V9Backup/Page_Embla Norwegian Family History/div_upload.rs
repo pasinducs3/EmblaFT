@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_upload</name>
+   <tag></tag>
+   <elementGuidId>f1139ce3-df9b-4f81-bb59-45f813d98e9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='btnUpload']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnUpload > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>abdafa13-2cd6-4d43-9e5b-39a992aeee89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>upload</value>
+      <webElementGuid>354b1c9d-7150-43c3-be43-9d424794f8a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnUpload&quot;)/div[1]</value>
+      <webElementGuid>549121c8-db1d-4dfe-8a21-d376737fa4e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='btnUpload']/div</value>
+      <webElementGuid>6e6b72f3-491a-4443-adab-d4c74d6d8306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose File'])[1]/following::div[5]</value>
+      <webElementGuid>ddba6fbf-e491-4338-b27c-2fb1050e08c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special_Hello PIG_with_multimedia_20221006.zip'])[1]/following::div[7]</value>
+      <webElementGuid>c532e286-c1cd-4334-a477-abc8ea376fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/preceding::div[2]</value>
+      <webElementGuid>10550a5a-4b7f-4fbb-80e4-80a83b101bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[6]/div</value>
+      <webElementGuid>5b80815d-5d1e-49d7-9116-421d22267569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'upload' or . = 'upload')]</value>
+      <webElementGuid>25a53d16-b1eb-42ab-a583-99cca7974ac4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

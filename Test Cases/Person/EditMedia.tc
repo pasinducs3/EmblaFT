@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EditMedia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd5cb3a7-a1e4-4d00-9b37-2612096f6a51</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46a063a0-deaa-4ab5-9934-f89688621e0a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'D:\\\\EmblaFT\\\\Files\\\\Images\\\\C1.png'</defaultValue>
+      <description></description>
+      <id>46a063a0-deaa-4ab5-9934-f89688621e0a</id>
+      <masked>false</masked>
+      <name>imageProf</name>
+   </variable>
+</TestCaseEntity>

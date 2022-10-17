@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_add</name>
+   <tag></tag>
+   <elementGuidId>95baa6a5-e42f-4072-8b68-e120c5384378</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'ft-btn ft-btn-inactive active' and @ng-reflect-klass = 'ft-btn']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ft-btn.ft-btn-inactive.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1706502e-a87a-431d-b105-42e8b53864f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ft-btn ft-btn-inactive active</value>
+      <webElementGuid>aa83f496-2440-484f-9bf7-d4924595dfaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-klass</name>
+      <type>Main</type>
+      <value>ft-btn</value>
+      <webElementGuid>d1c2e86e-4e00-4b21-9956-0433316d5246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>ft-btn-inactive active</value>
+      <webElementGuid>f48f23af-1f88-450a-a87b-92925646789b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>42c0a1f5-0150-4ad2-87cb-03e9141f6a86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;translated-ltr&quot;]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/app-dialog[1]/div[1]/div[@class=&quot;dialog-container first-dialog active-dialog&quot;]/app-multimedia-main[1]/div[1]/div[@class=&quot;tab-container app-dark-bg&quot;]/div[@class=&quot;tab-forms app-light-bg&quot;]/app-multimedia-editor[1]/div[@class=&quot;ft-form&quot;]/div[@class=&quot;footer&quot;]/button[@class=&quot;ft-btn ft-btn-inactive active&quot;]</value>
+      <webElementGuid>1571a576-05dd-4a32-a39b-b95339c0a7c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::button[1]</value>
+      <webElementGuid>3372d721-6a5e-4b92-a163-ff8bdcede0ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Place name'])[1]/following::button[1]</value>
+      <webElementGuid>b9a377d7-17af-4665-a171-167cb8e2a333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>38e9f826-25e8-420b-8fa3-4b75ea1adfdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>096d0d04-d119-4e86-bac9-d340aa8fadbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'add' or . = 'add')]</value>
+      <webElementGuid>7b1b3101-6159-462e-94be-59e3e160b2e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

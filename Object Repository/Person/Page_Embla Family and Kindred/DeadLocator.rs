@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DeadLocator</name>
+   <tag></tag>
+   <elementGuidId>c853cdc5-aefb-4f94-845f-a3b1bd7124e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/div[2]/app-editor/div/div/app-individual-editor-main/div/div/div[1]/app-individual-editor/div/div[1]/form/fieldset/div[4]/div/div/div/div[2]/input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/div/div[2]/app-editor/div/div/app-individual-editor-main/div/div/div[1]/app-individual-editor/div/div[1]/form/fieldset/div[4]/div/div/div/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/div[2]/app-editor/div/div/app-individual-editor-main/div/div/div[1]/app-individual-editor/div/div[1]/form/fieldset/div[4]/div/div/div/div[2]/input</value>
+      <webElementGuid>525db19c-5245-488b-b970-ec110c67e2d5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

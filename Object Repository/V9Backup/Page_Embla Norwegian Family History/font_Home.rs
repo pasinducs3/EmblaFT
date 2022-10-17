@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Home</name>
+   <tag></tag>
+   <elementGuidId>54771703-5f24-4259-845b-262ca75a91f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='navi']/li/a/font/font</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li > a > font > font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>dedd5ffc-f0f7-41b3-a7e7-b38ee326db32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>102c636a-2e6e-4268-a802-f2a6e58c3d98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navi&quot;)/li[1]/a[1]/font[1]/font[1]</value>
+      <webElementGuid>197ca990-7b49-4986-b4a3-743e7700f835</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='navi']/li/a/font/font</value>
+      <webElementGuid>bb1909b7-6e05-4dfe-a64d-039b02db8bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='log out'])[1]/following::font[2]</value>
+      <webElementGuid>2e6ba80f-3c83-4ff5-ac33-c96c7e508b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member until 13 Feb 2027'])[1]/following::font[4]</value>
+      <webElementGuid>d7933a2d-f833-447b-b0db-95221e663a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[1]/preceding::font[1]</value>
+      <webElementGuid>3665cc66-345f-40f2-85c5-ddbb38892924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News archive'])[1]/preceding::font[3]</value>
+      <webElementGuid>44aa2424-5974-490b-9fc8-012a040b7efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
+      <webElementGuid>59436e0b-a850-4525-a92e-a644633e9049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/font/font</value>
+      <webElementGuid>a64a2585-7ef3-4364-8d23-de354b426bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>a212b471-61e6-4885-93f7-49ab84c0d67e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

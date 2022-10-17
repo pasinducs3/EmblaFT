@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Privat</name>
+   <tag></tag>
+   <elementGuidId>4d86a9b5-fc69-444e-ad2b-217d9374b8d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='ngFormIndividual']/fieldset/div[6]/div[2]/div/div/label[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ab4d4bea-9d46-41d3-8e8f-63d30112be59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-checked-container input-checkbox-small</value>
+      <webElementGuid>3dff3bd0-f39f-45ee-8538-fa6d0daf8315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Privat </value>
+      <webElementGuid>b509197d-681c-4ec6-8ae1-14c250b8fb50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ngFormIndividual&quot;)/fieldset[1]/div[@class=&quot;ft-form-row col2-v50v50&quot;]/div[2]/div[@class=&quot;ft-form-input&quot;]/div[1]/label[@class=&quot;input-checked-container input-checkbox-small&quot;]</value>
+      <webElementGuid>a9551de9-6fe3-466a-aaa9-3cd8507a5edd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ngFormIndividual']/fieldset/div[6]/div[2]/div/div/label[2]</value>
+      <webElementGuid>c6b193ac-a159-4e52-8ea6-7ec74f5c905d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medisinsk'])[1]/following::label[1]</value>
+      <webElementGuid>eef764e8-3454-46ab-85c6-327d913b18c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privat'])[1]/following::label[2]</value>
+      <webElementGuid>2a4beccb-2eea-4399-98ae-08bbe78e2f43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adresse'])[1]/preceding::label[1]</value>
+      <webElementGuid>99a3b73e-41a3-48ec-a801-c3471ef70df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Telefon'])[1]/preceding::label[2]</value>
+      <webElementGuid>d96bb7ad-5328-40d8-976b-134a6dc5a205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/label[2]</value>
+      <webElementGuid>e0b6809f-7b36-4438-9fd0-3d559c594c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Privat ' or . = 'Privat ')]</value>
+      <webElementGuid>610a4e2e-f781-4591-b134-aa8d42d25c01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

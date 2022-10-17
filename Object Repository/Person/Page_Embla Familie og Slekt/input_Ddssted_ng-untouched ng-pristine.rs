@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Ddssted_ng-untouched ng-pristine</name>
+   <tag></tag>
+   <elementGuidId>90386af4-85a1-4898-aa39-1185c8c976f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4298056e-4331-46d9-ad0b-c75682f944ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d59831eb-a6a1-4c6d-9685-b8dbf8bd2b09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-form</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>531d4ec4-8a3e-4b5e-b1a7-77258eb8ce9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Stedsnavn, Gård, Sokn, Kommune, Fylke, Land</value>
+      <webElementGuid>98630d85-c8f1-41db-a856-6ec4c3c78687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine</value>
+      <webElementGuid>698a7c4b-da9b-4430-83e0-0f2368acaa0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ngFormIndividual&quot;)/fieldset[1]/div[@class=&quot;ft-form-row col2-vf&quot;]/div[@class=&quot;ft-form-input&quot;]/app-place-input[1]/div[@class=&quot;place-input&quot;]/input[@class=&quot;ng-untouched ng-pristine&quot;]</value>
+      <webElementGuid>ede4164c-9fd9-4b33-a97b-8f88e760856a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[8]</value>
+      <webElementGuid>c38d754a-a1d5-4702-8f93-ae18e13e15ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ngFormIndividual']/fieldset/div[5]/div[2]/app-place-input/div/input</value>
+      <webElementGuid>c0a829f6-a443-4bc6-8c2a-4442f0b814a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/app-place-input/div/input</value>
+      <webElementGuid>37e121df-bd76-4226-ac33-353f12225614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Stedsnavn, Gård, Sokn, Kommune, Fylke, Land']</value>
+      <webElementGuid>39ee8016-5e09-42f2-927c-a92f6a4a7607</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

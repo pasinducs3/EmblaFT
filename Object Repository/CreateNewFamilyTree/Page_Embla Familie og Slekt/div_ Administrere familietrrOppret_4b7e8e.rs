@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ Administrere familietrrOppret_4b7e8e</name>
+   <tag></tag>
+   <elementGuidId>f24bc082-0a12-4d0d-98fc-15da72d4b0ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.selected-project</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>56d68971-6b4f-428c-8455-555c3ecdd5eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected-project</value>
+      <webElementGuid>bada5a9a-9000-4b38-974c-6bd3de9bc17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hello PIG Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga FamilyYasas Postman3PasiYasasHakoonsupun testØystein Haaland sitt familietreKDU FTHello PIGDate Test</value>
+      <webElementGuid>dd086d80-a4f1-4f82-8812-1ac462b4e405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-dashboard[1]/app-subheader-main[1]/div[@class=&quot;sub-header-container&quot;]/div[@class=&quot;project-breadcrumb-base-container&quot;]/app-family-projects[1]/div[@class=&quot;selected-project&quot;]</value>
+      <webElementGuid>83e15184-c004-4cb8-8c60-bc312cfb6a52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[4]</value>
+      <webElementGuid>28cfd2d6-37f5-42dd-ab46-7f25af2fdb65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version 10.1.121'])[1]/following::div[5]</value>
+      <webElementGuid>129bf35e-5ebb-41e3-984e-527104150f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-family-projects/div</value>
+      <webElementGuid>438aa6c0-a224-4642-a9ec-0d00e15a413c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Hello PIG Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga FamilyYasas Postman3PasiYasasHakoonsupun testØystein Haaland sitt familietreKDU FTHello PIGDate Test' or . = ' Hello PIG Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga FamilyYasas Postman3PasiYasasHakoonsupun testØystein Haaland sitt familietreKDU FTHello PIGDate Test')]</value>
+      <webElementGuid>eb53400b-fb36-45d3-b6ae-3cfec2f92ce0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

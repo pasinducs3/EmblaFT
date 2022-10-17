@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Velg en hendelsestypeAdopsjonJordfes_b53109</name>
+   <tag></tag>
+   <elementGuidId>d3c1d1b7-a4d5-47db-b98f-de0518eec22e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='eventModel']/fieldset/div[2]/div[2]/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1f43008b-6aad-428f-bcb5-9e9847ad5c63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-options</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>44a5e37e-5d66-4869-8973-0cf383fc72a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>4c882788-67cb-4d00-9249-49c1c00ef5f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Velg en hendelsestypeAdopsjonJordfestelseFolketellingBorgerbrevBorgerskapUtflyttet (iflg. Kirkebok)FosterHjemmedåpHjemmedåp stedfestelseInnflyttede (iflg. Kirkebok)IntroduksjonInnmeldt i statskirken (iflg. Kirkebok)Antall barnUtmeldt av statskirken (iflg. Kirkebok)Spesielt familieforholdVaksinertLysning  (iflg. kirkebok)AnnullertSamboerEktefelles bortgangSkilsmisseSøknad om skilsmisseForlovelseEkteskapskontraktEkteskapsløyveEkteskapSeparasjon</value>
+      <webElementGuid>8a85c58b-86d7-4623-a0fb-08d61cd3bf99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eventModel&quot;)/fieldset[1]/div[@class=&quot;ft-form-row col2-vf&quot;]/div[2]/div[@class=&quot;ft-form-row col1-v100 event-type&quot;]/div[@class=&quot;ft-form-input&quot;]/select[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>74f41328-728b-4cb5-8944-ba757f4ad9b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='eventModel']/fieldset/div[2]/div[2]/div/div/select</value>
+      <webElementGuid>63586c05-ad27-4401-bfca-3aac4b19e2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hendelsestype'])[1]/following::select[1]</value>
+      <webElementGuid>02905df9-b101-4c61-beec-5e60982a7591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Legg hendelse til Pasindu'])[1]/following::select[1]</value>
+      <webElementGuid>44c42f25-1457-49b8-b2b6-c75f668ce23f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>6e440ef7-5843-4634-b429-7d0c53f0fe73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Velg en hendelsestypeAdopsjonJordfestelseFolketellingBorgerbrevBorgerskapUtflyttet (iflg. Kirkebok)FosterHjemmedåpHjemmedåp stedfestelseInnflyttede (iflg. Kirkebok)IntroduksjonInnmeldt i statskirken (iflg. Kirkebok)Antall barnUtmeldt av statskirken (iflg. Kirkebok)Spesielt familieforholdVaksinertLysning  (iflg. kirkebok)AnnullertSamboerEktefelles bortgangSkilsmisseSøknad om skilsmisseForlovelseEkteskapskontraktEkteskapsløyveEkteskapSeparasjon' or . = 'Velg en hendelsestypeAdopsjonJordfestelseFolketellingBorgerbrevBorgerskapUtflyttet (iflg. Kirkebok)FosterHjemmedåpHjemmedåp stedfestelseInnflyttede (iflg. Kirkebok)IntroduksjonInnmeldt i statskirken (iflg. Kirkebok)Antall barnUtmeldt av statskirken (iflg. Kirkebok)Spesielt familieforholdVaksinertLysning  (iflg. kirkebok)AnnullertSamboerEktefelles bortgangSkilsmisseSøknad om skilsmisseForlovelseEkteskapskontraktEkteskapsløyveEkteskapSeparasjon')]</value>
+      <webElementGuid>83980800-5eca-43cb-91eb-62f5323e0098</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

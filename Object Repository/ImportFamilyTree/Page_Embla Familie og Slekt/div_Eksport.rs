@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Eksport</name>
+   <tag></tag>
+   <elementGuidId>f0e09890-e99e-452a-a3c4-ba3e1e67492d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c92ce13b-eae1-447b-a3c5-d09b5853c0af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-item</value>
+      <webElementGuid>a549d9b5-8e84-46d5-aef4-2d030a71a065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Eksport</value>
+      <webElementGuid>6be36fcd-81f9-40b1-a755-fa82216ce383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-family-project-main[1]/div[@class=&quot;ft-form&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;list-gallery&quot;]/app-family-project-list[1]/div[@class=&quot;list-content&quot;]/div[@class=&quot;list-container&quot;]/div[1]/div[@class=&quot;item&quot;]/div[@class=&quot;item-options&quot;]/app-drop-menu[1]/div[@class=&quot;menu-container&quot;]/div[@class=&quot;menu-items-base menu_items-1&quot;]/div[3]/div[@class=&quot;menu-item&quot;]</value>
+      <webElementGuid>1b4ad13b-e5a9-4a7f-9e34-dea315f9635d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/following::div[2]</value>
+      <webElementGuid>4ca552e5-5925-4aec-9a58-991dcfdc2012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Se på familietre'])[1]/following::div[5]</value>
+      <webElementGuid>50ba6a53-bb42-4292-a1c8-459a52d18126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last ned siste sikkerhetskopi'])[1]/preceding::div[2]</value>
+      <webElementGuid>533f422f-c493-45fb-b75b-d42aabba6fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-drop-menu/div/div[2]/div[3]/div</value>
+      <webElementGuid>61a44661-57ec-4906-a61d-d6a2a835e815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Eksport' or . = 'Eksport')]</value>
+      <webElementGuid>30f8c595-ccb2-4c18-8281-ad50e5b5f51a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

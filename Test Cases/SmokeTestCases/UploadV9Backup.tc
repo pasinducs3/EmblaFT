@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadV9Backup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c31558e-2553-4db4-8fd5-d341f8a4442e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ed23be9-c170-44b7-9d50-48fe725a96a1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'D:\\\\EmblaFT\\\\Files\\\\Restore_Hello PIG_with_multimedia_20221006.zip'</defaultValue>
+      <description></description>
+      <id>9ed23be9-c170-44b7-9d50-48fe725a96a1</id>
+      <masked>false</masked>
+      <name>zipfile</name>
+   </variable>
+</TestCaseEntity>

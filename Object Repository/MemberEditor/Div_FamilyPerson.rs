@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Div_FamilyPerson</name>
+   <tag></tag>
+   <elementGuidId>dbef996c-ffc7-45c6-812f-1900df6ed482</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/div[2]/app-dashboard/app-subheader-main/div/app-editors/div/div[5]/svg[count(. | //*[@class = 'editor-member-icon']) = count(//*[@class = 'editor-member-icon'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/div/div[2]/app-dashboard/app-subheader-main/div/app-editors/div/div[5]/svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editor-member-icon</value>
+      <webElementGuid>6107cee6-21dc-4099-830d-92f19a577b92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/div[2]/app-dashboard/app-subheader-main/div/app-editors/div/div[5]/svg</value>
+      <webElementGuid>74447465-6be9-4064-83c4-1d01e8e7d433</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Avbryt</name>
+   <tag></tag>
+   <elementGuidId>b821a693-b2b5-4c34-a40b-01a28277d59a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Importer fil'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0339d3d3-a3ff-4740-8508-1513c812d76a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ft-btn ft-btn-active-not-selected</value>
+      <webElementGuid>f399727c-a91e-4fd5-85d6-7df8e1f7e746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Avbryt</value>
+      <webElementGuid>36088fc8-c15e-4fdc-b12f-d12559cb2ba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/app-dialog[1]/div[1]/div[@class=&quot;dialog-container first-dialog active-dialog&quot;]/app-add-new-project-main[1]/div[1]/div[@class=&quot;tab-container app-dark-bg&quot;]/div[@class=&quot;tab-forms app-light-bg&quot;]/app-family-project-import-option[1]/div[@class=&quot;ft-form&quot;]/div[@class=&quot;footer&quot;]/button[@class=&quot;ft-btn ft-btn-active-not-selected&quot;]</value>
+      <webElementGuid>3c889dff-329e-44bb-a031-263d095f7d91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Importer fil'])[1]/following::button[1]</value>
+      <webElementGuid>dc110db9-9353-42c4-ae93-bc4e60a749b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingen slektstrær har blitt importert/eksportert'])[1]/following::button[2]</value>
+      <webElementGuid>cbab4cdd-6e9d-4a50-beab-f7b1b575ae66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hjem'])[1]/preceding::button[1]</value>
+      <webElementGuid>88354eb2-9c22-4e4c-bfea-137bc8c53f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rapporter'])[1]/preceding::button[1]</value>
+      <webElementGuid>45135fbf-379f-4494-a456-eef42c7ed192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Avbryt']/parent::*</value>
+      <webElementGuid>2afeb783-50a9-4e38-80e9-e00005b4d0e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>2deae358-d385-4627-9251-c6e1de90ee55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Avbryt' or . = 'Avbryt')]</value>
+      <webElementGuid>5972c1ca-c3ec-4920-ac12-ed7a880f66b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

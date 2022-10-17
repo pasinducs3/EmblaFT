@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Legg bilder til pasi_upload-dropzone-image</name>
+   <tag></tag>
+   <elementGuidId>3280361a-dc31-42c3-9a9a-81789479dced</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.upload-dropzone-image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>898f0713-ac92-40d4-92d8-f33a7d73b9d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>upload-dropzone-image</value>
+      <webElementGuid>77d26aec-2676-4843-980e-572ba86d0f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/multimedia-module/Drag.png</value>
+      <webElementGuid>0c116ffe-404c-4627-81a8-8a8f6266711f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/app-dialog[1]/div[1]/div[@class=&quot;dialog-container first-dialog active-dialog&quot;]/app-multimedia-main[1]/div[1]/div[@class=&quot;tab-container app-dark-bg&quot;]/div[@class=&quot;tab-forms app-light-bg&quot;]/app-multimedia-editor[1]/div[@class=&quot;ft-form&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ft-form-row&quot;]/app-media-input[1]/div[@class=&quot;media-input-container border-outline&quot;]/div[@class=&quot;upload-container&quot;]/img[@class=&quot;upload-dropzone-image&quot;]</value>
+      <webElementGuid>d3e86949-d4bc-4152-a9d3-4a3e68691443</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>e264b954-0fd0-4011-b229-f3a582ebb03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/multimedia-module/Drag.png']</value>
+      <webElementGuid>28e75216-d682-4c9e-8771-ec324bb137fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

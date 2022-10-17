@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>V9input</name>
+   <tag></tag>
+   <elementGuidId>a541db42-ea39-4ea7-a905-c2a750c8cece</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[2]/div[3]/form/div[4]/input[count(. | //*[@id = 'file']) = count(//*[@id = 'file'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>file</value>
+      <webElementGuid>f08dfbf7-7b9a-485a-8c36-502291c6ec8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[2]/div[3]/form/div[4]/input</value>
+      <webElementGuid>26ebb4c4-49dd-421c-a5aa-8942c3dadd09</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

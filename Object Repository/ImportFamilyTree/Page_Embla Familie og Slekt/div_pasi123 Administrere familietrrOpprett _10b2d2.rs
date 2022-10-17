@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_pasi123 Administrere familietrrOpprett _10b2d2</name>
+   <tag></tag>
+   <elementGuidId>26531300-12a7-492a-8b9c-5a2bdf32d893</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.selected-project</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a828530c-b309-4b47-a80f-c30c12988052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected-project</value>
+      <webElementGuid>a4f9efbc-db72-4391-8be5-fd5501bb003f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> pasi123 Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga Familypasi123Yasas Postman3PasiYasasHakoonsupun testpasi treeØystein Haaland sitt familietreKDU FTHello PIGDate Test</value>
+      <webElementGuid>54b72224-4a08-46d5-a327-f3a1c590f3ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-dashboard[1]/app-subheader-main[1]/div[@class=&quot;sub-header-container&quot;]/div[@class=&quot;project-breadcrumb-base-container&quot;]/app-family-projects[1]/div[@class=&quot;selected-project&quot;]</value>
+      <webElementGuid>b8b5f6da-be2b-4f3e-8a1d-4e598f5d9b0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[4]</value>
+      <webElementGuid>ac62526b-1288-46ee-877b-134c89a26b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version 10.1.121'])[1]/following::div[5]</value>
+      <webElementGuid>61c6d83c-71dd-41a9-9294-234a1fc86208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-family-projects/div</value>
+      <webElementGuid>5744085e-c311-40e3-9fad-4a805ca03d56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' pasi123 Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga Familypasi123Yasas Postman3PasiYasasHakoonsupun testpasi treeØystein Haaland sitt familietreKDU FTHello PIGDate Test' or . = ' pasi123 Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga Familypasi123Yasas Postman3PasiYasasHakoonsupun testpasi treeØystein Haaland sitt familietreKDU FTHello PIGDate Test')]</value>
+      <webElementGuid>43d65e23-f53c-4d98-aa47-16301a4bdc17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

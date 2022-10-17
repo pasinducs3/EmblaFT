@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__ Administrere familietrrO_d428e9</name>
+   <tag></tag>
+   <elementGuidId>df4aa2b3-5e86-4b70-a006-6aa2fe874166</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.selected-project</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>746ec79b-e7a3-4237-8bfe-f9bd70f2fa7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected-project</value>
+      <webElementGuid>4a5eda81-6336-4b36-8cd8-47aa37d2732d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Yasas Postman3 Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga FamilyYasas Postman3PasiYasasHakoonsupun testØystein Haaland sitt familietreKDU FTDate Test</value>
+      <webElementGuid>4456ee07-c3da-4252-b494-1b5353d97ae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-dashboard[1]/app-subheader-main[1]/div[@class=&quot;sub-header-container&quot;]/div[@class=&quot;project-breadcrumb-base-container&quot;]/app-family-projects[1]/div[@class=&quot;selected-project&quot;]</value>
+      <webElementGuid>e9b3c1ac-d0cd-4c5d-b7d5-91dc8a1b6ec8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[4]</value>
+      <webElementGuid>b772902c-4c1e-4aa8-8392-398a181dbd44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version 10.1.120'])[1]/following::div[5]</value>
+      <webElementGuid>01b2df22-c50c-4949-a5ef-e1bfb91b1c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-family-projects/div</value>
+      <webElementGuid>99246af7-4682-4c95-adbe-d46f4ad07009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Yasas Postman3 Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga FamilyYasas Postman3PasiYasasHakoonsupun testØystein Haaland sitt familietreKDU FTDate Test' or . = ' Yasas Postman3 Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga FamilyYasas Postman3PasiYasasHakoonsupun testØystein Haaland sitt familietreKDU FTDate Test')]</value>
+      <webElementGuid>d811b70d-3d51-472f-bb41-693a9d3f1bb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

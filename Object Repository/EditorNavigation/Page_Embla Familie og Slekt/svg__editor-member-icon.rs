@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg__editor-member-icon</name>
+   <tag></tag>
+   <elementGuidId>3c78ce92-265a-4e01-bf24-dd991d781aa3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/div/div[2]/app-dashboard/app-subheader-main/div/app-editors/div/div[5]/svg</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/div[2]/app-dashboard/app-subheader-main/div/app-editors/div/div[5]/svg[count(. | //*[@class = 'editor-member-icon']) = count(//*[@class = 'editor-member-icon'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.editor-member-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>844f8282-e321-460f-a51b-e0b672a46fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>editor-member-icon</value>
+      <webElementGuid>15566ac5-1bfc-45ac-843f-6f37009e1374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>91b28f5c-428e-45a7-976d-52a82e38fb66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/div[2]/app-dashboard/app-subheader-main/div/app-editors/div/div[5]/svg</value>
+      <webElementGuid>4fddf8e6-d3cb-493b-a836-b87cd70f8748</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SaveButton</name>
+   <tag></tag>
+   <elementGuidId>7a7c1114-f7e7-440f-9bc3-aca3c46650b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/div[2]/app-editor/div/div/app-individual-editor-main/div/div/div[2]/app-events-main/div/div/div[2]/app-event-form/div/div[2]/button[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/div/div[2]/app-editor/div/div/app-individual-editor-main/div/div/div[2]/app-events-main/div/div/div[2]/app-event-form/div/div[2]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/div[2]/app-editor/div/div/app-individual-editor-main/div/div/div[2]/app-events-main/div/div/div[2]/app-event-form/div/div[2]/button[1]</value>
+      <webElementGuid>94bb2442-2ba0-4352-8a9c-9573d9b2b9fc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

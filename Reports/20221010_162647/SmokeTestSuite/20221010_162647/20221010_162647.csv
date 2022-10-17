@@ -1,0 +1,81 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SmokeTestSuite,Chrome 106.0.0.0,,,2022-10-10 16:26:57,2022-10-10 16:29:07,2m - 9.116s,PASSED
+,,,,,,,
+Test Cases/SmokeTestCases/Login,Chrome 106.0.0.0,,,2022-10-10 16:26:58,2022-10-10 16:27:49,51.211s,PASSED
+"openBrowser("""")",Chrome 106.0.0.0,,,2022-10-10 16:26:58,2022-10-10 16:27:00,2.141s,PASSED
+deleteAllCookies(),Chrome 106.0.0.0,,,2022-10-10 16:27:00,2022-10-10 16:27:00,0.033s,PASSED
+maximizeWindow(),Chrome 106.0.0.0,,,2022-10-10 16:27:00,2022-10-10 16:27:00,0.151s,PASSED
+"navigateToUrl(""https://dev.embla.no/"")",Chrome 106.0.0.0,,,2022-10-10 16:27:00,2022-10-10 16:27:03,2.632s,PASSED
+delay(3),Chrome 106.0.0.0,,,2022-10-10 16:27:03,2022-10-10 16:27:06,3.025s,PASSED
+"click(findTestObject(""Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email""))",Chrome 106.0.0.0,,,2022-10-10 16:27:06,2022-10-10 16:27:06,0.413s,PASSED
+"setText(findTestObject(""Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email"", [""variable"":""eranga@embla.asia""]), ""eranga@embla.asia"")",Chrome 106.0.0.0,,,2022-10-10 16:27:06,2022-10-10 16:27:07,0.655s,PASSED
+"click(findTestObject(""Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password""))",Chrome 106.0.0.0,,,2022-10-10 16:27:07,2022-10-10 16:27:07,0.363s,PASSED
+"setText(findTestObject(""Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password""), ""test123"")",Chrome 106.0.0.0,,,2022-10-10 16:27:07,2022-10-10 16:27:08,0.643s,PASSED
+delay(1),Chrome 106.0.0.0,,,2022-10-10 16:27:08,2022-10-10 16:27:09,1.006s,PASSED
+"click(findTestObject(""Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_login_locktop login2""))",Chrome 106.0.0.0,,,2022-10-10 16:27:09,2022-10-10 16:27:26,16.818s,PASSED
+"navigateToUrl(""https://dev.embla.no/Account/Login"")",Chrome 106.0.0.0,,,2022-10-10 16:27:26,2022-10-10 16:27:27,1.109s,PASSED
+waitForPageLoad(0),Chrome 106.0.0.0,,,2022-10-10 16:27:27,2022-10-10 16:27:27,0.110s,PASSED
+"click(findTestObject(""Objects Base/Page_Embla Norsk Familiehistorie/a_Versjon 10""))",Chrome 106.0.0.0,,,2022-10-10 16:27:27,2022-10-10 16:27:46,18.792s,PASSED
+delay(3),Chrome 106.0.0.0,,,2022-10-10 16:27:46,2022-10-10 16:27:49,3.010s,PASSED
+,,,,,,,
+Test Cases/SmokeTestCases/CreateNewFamilyTree,Chrome 106.0.0.0,,,2022-10-10 16:27:49,2022-10-10 16:28:02,13.150s,PASSED
+"click(findTestObject(""Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_ Administrere familietrrOppret_4b7e8e""))",Chrome 106.0.0.0,,,2022-10-10 16:27:49,2022-10-10 16:27:52,2.893s,PASSED
+"click(findTestObject(""Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Opprett nytt slektstre""))",Chrome 106.0.0.0,,,2022-10-10 16:27:52,2022-10-10 16:27:52,0.419s,PASSED
+"setText(findTestObject(""CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Navnet til familietreet_ProjectName""), ""pasi123"")",Chrome 106.0.0.0,,,2022-10-10 16:27:52,2022-10-10 16:27:53,0.864s,PASSED
+"setText(findTestObject(""Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Fornavn_GivenName""), ""pasi"")",Chrome 106.0.0.0,,,2022-10-10 16:27:53,2022-10-10 16:27:54,0.813s,PASSED
+"setText(findTestObject(""Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Etternavn_LastName""), ""chathu"")",Chrome 106.0.0.0,,,2022-10-10 16:27:54,2022-10-10 16:27:55,0.878s,PASSED
+"click(findTestObject(""Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Mann_gender""))",Chrome 106.0.0.0,,,2022-10-10 16:27:55,2022-10-10 16:27:56,0.583s,PASSED
+"click(findTestObject(""Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/button_Lagre""))",Chrome 106.0.0.0,,,2022-10-10 16:27:56,2022-10-10 16:27:56,0.350s,PASSED
+"click(findTestObject(""Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem""))",Chrome 106.0.0.0,,,2022-10-10 16:27:56,2022-10-10 16:28:01,5.597s,PASSED
+"navigateToUrl(""http://dev.ft.embla.no/dashboard"")",Chrome 106.0.0.0,,,2022-10-10 16:28:01,2022-10-10 16:28:02,0.536s,PASSED
+,,,,,,,
+Test Cases/SmokeTestCases/MemberEditor,Chrome 106.0.0.0,,,2022-10-10 16:28:02,2022-10-10 16:28:08,6.223s,PASSED
+"click(findTestObject(""Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser""))",Chrome 106.0.0.0,,,2022-10-10 16:28:02,2022-10-10 16:28:06,3.299s,PASSED
+"click(findTestObject(""Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person""))",Chrome 106.0.0.0,,,2022-10-10 16:28:06,2022-10-10 16:28:06,0.439s,PASSED
+"click(findTestObject(""Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem""))",Chrome 106.0.0.0,,,2022-10-10 16:28:06,2022-10-10 16:28:08,2.214s,PASSED
+,,,,,,,
+Test Cases/SmokeTestCases/FamilyEditor,Chrome 106.0.0.0,,,2022-10-10 16:28:08,2022-10-10 16:28:16,7.262s,PASSED
+"navigateToUrl(""http://dev.ft.embla.no/dashboard"")",Chrome 106.0.0.0,,,2022-10-10 16:28:09,2022-10-10 16:28:09,0.517s,PASSED
+"click(findTestObject(""Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571""))",Chrome 106.0.0.0,,,2022-10-10 16:28:09,2022-10-10 16:28:12,3.391s,PASSED
+"click(findTestObject(""Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_Familie""))",Chrome 106.0.0.0,,,2022-10-10 16:28:12,2022-10-10 16:28:13,0.446s,PASSED
+"click(findTestObject(""EditorNavigation/Page_Embla Familie og Slekt/a_Hjem""))",Chrome 106.0.0.0,,,2022-10-10 16:28:13,2022-10-10 16:28:15,2.586s,PASSED
+"waitForPageLoad(0, STOP_ON_FAILURE)",Chrome 106.0.0.0,,,2022-10-10 16:28:15,2022-10-10 16:28:16,0.025s,PASSED
+,,,,,,,
+Test Cases/SmokeTestCases/PublishFanChartReport,Chrome 106.0.0.0,,,2022-10-10 16:28:16,2022-10-10 16:28:27,11.088s,PASSED
+"waitForPageLoad(0, STOP_ON_FAILURE)",Chrome 106.0.0.0,,,2022-10-10 16:28:16,2022-10-10 16:28:16,0.016s,PASSED
+"navigateToUrl(""http://dev.ft.embla.no/dashboard"")",Chrome 106.0.0.0,,,2022-10-10 16:28:16,2022-10-10 16:28:16,0.528s,PASSED
+"click(findTestObject(""Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84""))",Chrome 106.0.0.0,,,2022-10-10 16:28:16,2022-10-10 16:28:20,3.410s,PASSED
+"click(findTestObject(""Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_Anesirkel (blader)""))",Chrome 106.0.0.0,,,2022-10-10 16:28:20,2022-10-10 16:28:20,0.420s,PASSED
+"click(findTestObject(""Object Repository/PublishFanReport/Page_Embla Familie og Slekt/div_Publiser""))",Chrome 106.0.0.0,,,2022-10-10 16:28:20,2022-10-10 16:28:23,3.001s,PASSED
+"setText(findTestObject(""Object Repository/PublishFanReport/Page_Embla Familie og Slekt/input_Tittel_reportTitle""), ""Pasi"")",Chrome 106.0.0.0,,,2022-10-10 16:28:23,2022-10-10 16:28:24,0.828s,PASSED
+"click(findTestObject(""Object Repository/PublishFanReport/Page_Embla Familie og Slekt/button_Publiser""))",Chrome 106.0.0.0,,,2022-10-10 16:28:24,2022-10-10 16:28:24,0.490s,PASSED
+"click(findTestObject(""EditorNavigation/Page_Embla Familie og Slekt/a_Hjem""))",Chrome 106.0.0.0,,,2022-10-10 16:28:24,2022-10-10 16:28:27,2.151s,PASSED
+,,,,,,,
+Test Cases/SmokeTestCases/ViewFanChartReport,Chrome 106.0.0.0,,,2022-10-10 16:28:27,2022-10-10 16:28:38,11.606s,PASSED
+"waitForPageLoad(0, STOP_ON_FAILURE)",Chrome 106.0.0.0,,,2022-10-10 16:28:27,2022-10-10 16:28:27,0.019s,PASSED
+"navigateToUrl(""http://dev.ft.embla.no/dashboard"")",Chrome 106.0.0.0,,,2022-10-10 16:28:27,2022-10-10 16:28:27,0.520s,PASSED
+"click(findTestObject(""EditorNavigation/Page_Embla Familie og Slekt/a_Hjem""))",Chrome 106.0.0.0,,,2022-10-10 16:28:27,2022-10-10 16:28:31,3.870s,PASSED
+"click(findTestObject(""Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84""))",Chrome 106.0.0.0,,,2022-10-10 16:28:31,2022-10-10 16:28:35,3.592s,PASSED
+"click(findTestObject(""Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_Anesirkel""))",Chrome 106.0.0.0,,,2022-10-10 16:28:35,2022-10-10 16:28:35,0.446s,PASSED
+"click(findTestObject(""EditorNavigation/Page_Embla Familie og Slekt/a_Hjem""))",Chrome 106.0.0.0,,,2022-10-10 16:28:35,2022-10-10 16:28:38,2.899s,PASSED
+,,,,,,,
+Test Cases/SmokeTestCases/MulitimediaList,Chrome 106.0.0.0,,,2022-10-10 16:28:38,2022-10-10 16:28:47,8.511s,PASSED
+"waitForPageLoad(0, STOP_ON_FAILURE)",Chrome 106.0.0.0,,,2022-10-10 16:28:38,2022-10-10 16:28:38,0.027s,PASSED
+"navigateToUrl(""http://dev.ft.embla.no/dashboard"")",Chrome 106.0.0.0,,,2022-10-10 16:28:38,2022-10-10 16:28:39,0.497s,PASSED
+"click(findTestObject(""Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571""))",Chrome 106.0.0.0,,,2022-10-10 16:28:39,2022-10-10 16:28:43,4.016s,PASSED
+"click(findTestObject(""Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_Multimedialiste""))",Chrome 106.0.0.0,,,2022-10-10 16:28:43,2022-10-10 16:28:43,0.407s,PASSED
+"waitForPageLoad(0, STOP_ON_FAILURE)",Chrome 106.0.0.0,,,2022-10-10 16:28:43,2022-10-10 16:28:43,0.029s,PASSED
+"click(findTestObject(""Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt""))",Chrome 106.0.0.0,,,2022-10-10 16:28:43,2022-10-10 16:28:45,1.250s,PASSED
+"click(findTestObject(""CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem""), STOP_ON_FAILURE)",Chrome 106.0.0.0,,,2022-10-10 16:28:45,2022-10-10 16:28:47,2.038s,PASSED
+,,,,,,,
+Test Cases/SmokeTestCases/ExportFamilyTrees,Chrome 106.0.0.0,,,2022-10-10 16:28:47,2022-10-10 16:29:07,19.822s,PASSED
+"waitForPageLoad(0, STOP_ON_FAILURE)",Chrome 106.0.0.0,,,2022-10-10 16:28:47,2022-10-10 16:28:47,0.015s,PASSED
+"navigateToUrl(""http://dev.ft.embla.no/dashboard"")",Chrome 106.0.0.0,,,2022-10-10 16:28:47,2022-10-10 16:28:48,0.557s,PASSED
+"mouseOver(findTestObject(""Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/i_Pasi_arrow down arrow-black""))",Chrome 106.0.0.0,,,2022-10-10 16:28:48,2022-10-10 16:28:52,4.002s,PASSED
+"click(findTestObject(""Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Administrere familietrr""))",Chrome 106.0.0.0,,,2022-10-10 16:28:52,2022-10-10 16:28:52,0.430s,PASSED
+"click(findTestObject(""Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap""))",Chrome 106.0.0.0,,,2022-10-10 16:28:52,2022-10-10 16:28:53,1.176s,PASSED
+"click(findTestObject(""Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Eksport""))",Chrome 106.0.0.0,,,2022-10-10 16:28:53,2022-10-10 16:28:54,0.957s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/select_Velg typeGEDCOM""), ""GEDCOM"", true)",Chrome 106.0.0.0,,,2022-10-10 16:28:54,2022-10-10 16:28:55,1.177s,PASSED
+"click(findTestObject(""Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/button_Eksporter fil""))",Chrome 106.0.0.0,,,2022-10-10 16:28:55,2022-10-10 16:28:56,0.603s,PASSED
+"delay(10, STOP_ON_FAILURE)",Chrome 106.0.0.0,,,2022-10-10 16:28:56,2022-10-10 16:29:06,10.016s,PASSED
+"click(findTestObject(""Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/a_Hjem""))",Chrome 106.0.0.0,,,2022-10-10 16:29:06,2022-10-10 16:29:07,0.632s,PASSED

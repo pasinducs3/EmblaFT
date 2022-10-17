@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Foster</name>
+   <tag></tag>
+   <elementGuidId>91589bae-ec82-4ff7-8100-94ec711f0bf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='event-list-container']/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.label-m-grey.text-ellipsis-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>127461a7-1b32-40ca-9a6b-7cd150624ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-m-grey text-ellipsis-1</value>
+      <webElementGuid>ad9ce72c-278e-4082-9680-114cc77f875b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Foster </value>
+      <webElementGuid>ed47bdbf-1234-41a0-8529-3049cd8434a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;event-list-container&quot;)/div[@class=&quot;item&quot;]/div[@class=&quot;item-content&quot;]/span[@class=&quot;label-m-grey text-ellipsis-1&quot;]</value>
+      <webElementGuid>fde058c8-8398-469c-bc39-1e39c80e64e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='event-list-container']/div/div[2]/span</value>
+      <webElementGuid>a3950f67-1df6-4fa0-a241-d902bfea5bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Legg til hendelse'])[1]/following::span[1]</value>
+      <webElementGuid>2dacfc1a-2060-4d63-9d47-386d2964868f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hendelse'])[1]/following::span[1]</value>
+      <webElementGuid>15583d72-0794-424f-ba78-3f411019b41b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::span[1]</value>
+      <webElementGuid>a6c4fb68-ac73-40a4-8c1c-fcea535066ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notater'])[1]/preceding::span[3]</value>
+      <webElementGuid>25e20e3f-51a5-4304-a740-8d7415b105a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Foster']/parent::*</value>
+      <webElementGuid>9c14d4a9-b4ee-41fb-836e-ff8884e7b334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-event-list/div/div/div/div[2]/span</value>
+      <webElementGuid>9da4127c-92b5-4fea-ba3a-66976a5782c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Foster ' or . = 'Foster ')]</value>
+      <webElementGuid>101c67f5-db07-4689-ae0f-0e5bbf94f50d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

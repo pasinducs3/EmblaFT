@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldset_First nameSurnameSexMannWomanUnkno_505616</name>
+   <tag></tag>
+   <elementGuidId>d6d2267b-a7fe-4a53-bd73-a5677d0acf79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>fieldset</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='ngFormIndividual']/fieldset</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>fieldset</value>
+      <webElementGuid>f610f9ff-1ff2-4ae3-bcc2-1ba1f24c78ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>First nameSurnameSexMannWomanUnknownDate of birthBirthplaceI liveDeceasedUnknownDate of deathPlace of deathBiographyPrivateMedicalPrivateAddressTelephoneE-mailFlaggSearch resultcalendar</value>
+      <webElementGuid>5b81eaab-8047-4926-ad6e-63898d22b5b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ngFormIndividual&quot;)/fieldset[1]</value>
+      <webElementGuid>c5124077-4fd4-45b0-841c-a3b90d9c6f8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ngFormIndividual']/fieldset</value>
+      <webElementGuid>d265c0f6-20d1-48a4-b9f0-3d50914179f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Person'])[3]/following::fieldset[1]</value>
+      <webElementGuid>cea7e19a-ba33-420c-9927-f4f03722a121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[2]/following::fieldset[1]</value>
+      <webElementGuid>3e7371ec-be77-4314-a2b4-76da632649d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset</value>
+      <webElementGuid>da545130-1c7c-426a-a83b-9ac0a2a737bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//fieldset[(text() = 'First nameSurnameSexMannWomanUnknownDate of birthBirthplaceI liveDeceasedUnknownDate of deathPlace of deathBiographyPrivateMedicalPrivateAddressTelephoneE-mailFlaggSearch resultcalendar' or . = 'First nameSurnameSexMannWomanUnknownDate of birthBirthplaceI liveDeceasedUnknownDate of deathPlace of deathBiographyPrivateMedicalPrivateAddressTelephoneE-mailFlaggSearch resultcalendar')]</value>
+      <webElementGuid>4f2210fd-cb7b-43df-a1f3-af3a53caf528</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

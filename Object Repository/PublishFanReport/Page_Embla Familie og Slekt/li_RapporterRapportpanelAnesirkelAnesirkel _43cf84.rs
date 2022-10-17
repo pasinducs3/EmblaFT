@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_RapporterRapportpanelAnesirkelAnesirkel _43cf84</name>
+   <tag></tag>
+   <elementGuidId>d6cf954b-fb72-4f8f-a1a9-7dd3636b807f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hjem'])[1]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c16a1998-b380-44b9-96d5-e83df65a2101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-menu-item</value>
+      <webElementGuid>bf5c246c-4891-4d30-ab07-13c60ffcde45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RapporterRapportpanelAnesirkelAnesirkel (blader)SoldiagramForfedretavleArtistisk tre</value>
+      <webElementGuid>f9aaa525-334c-4932-972c-945f63bdc210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[1]/app-menu-main[1]/div[@class=&quot;main-header-container&quot;]/div[@class=&quot;right-menu-container&quot;]/nav[@class=&quot;nav-container&quot;]/ol[@class=&quot;main-menu-container&quot;]/li[@class=&quot;nav-menu-item&quot;]</value>
+      <webElementGuid>6dd127b3-3115-4c86-bbb4-322174bd69d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hjem'])[1]/following::li[1]</value>
+      <webElementGuid>4b02a3c2-9f6d-4919-aed6-f8b2ab81e1f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>17a600c4-7897-45c3-9841-3f775843b5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'RapporterRapportpanelAnesirkelAnesirkel (blader)SoldiagramForfedretavleArtistisk tre' or . = 'RapporterRapportpanelAnesirkelAnesirkel (blader)SoldiagramForfedretavleArtistisk tre')]</value>
+      <webElementGuid>7ee4e4d6-ad8d-4810-b745-b650a1e055b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

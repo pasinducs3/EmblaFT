@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SmokeTestSuite" time="129.116" tests="8" failures="0" errors="0">
+   <testsuite name="SmokeTestSuite" tests="8" failures="0" errors="0" time="129.116" skipped="0" timestamp="2022-10-10 16:26:57" hostname="pasindus - ITELPTD031.embla.lk" id="Test Suites/SmokeTestSuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\PasinduS\\Katalon Studio\\EmblaFT\\Reports\\20221010_162647\\SmokeTestSuite\\20221010_162647"/>
+         <property name="logFiles" value="C:\\Users\\PasinduS\\Katalon Studio\\EmblaFT\\Reports\\20221010_162647\\SmokeTestSuite\\20221010_162647\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="pasindus - ITELPTD031.embla.lk"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.4.1.208"/>
+         <property name="browser" value="Chrome 106.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.52"/>
+         <property name="sessionId" value="92b1f1e2e0162c4bdf82695916454839"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/SmokeTestCases/Login" time="51.211" classname="Test Cases/SmokeTestCases/Login" status="PASSED">
+         <system-out><![CDATA[2022-10-10 16:26:58 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/Login: Test Cases/SmokeTestCases/Login
+
+2022-10-10 16:26:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-10-10 16:26:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-10-10 16:26:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-10-10 16:27:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-10-10 16:27:00 - [TEST_STEP][PASSED] - deleteAllCookies(): Delete all cookies successfully
+
+2022-10-10 16:27:00 - [MESSAGE][PASSED] - Delete all cookies successfully
+
+2022-10-10 16:27:00 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-10-10 16:27:00 - [MESSAGE][PASSED] - Current window maximized
+
+2022-10-10 16:27:00 - [TEST_STEP][PASSED] - navigateToUrl("https://dev.embla.no/"): Navigate to 'https://dev.embla.no/' successfully
+
+2022-10-10 16:27:03 - [MESSAGE][PASSED] - Navigate to 'https://dev.embla.no/' successfully
+
+2022-10-10 16:27:03 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-10-10 16:27:06 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-10-10 16:27:06 - [TEST_STEP][PASSED] - click(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email")): Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email' is clicked on
+
+2022-10-10 16:27:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email' is clicked on
+
+2022-10-10 16:27:06 - [TEST_STEP][PASSED] - setText(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email", ["variable":"eranga@embla.asia"]), "eranga@embla.asia"): Text 'eranga@embla.asia' is set on object 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email'
+
+2022-10-10 16:27:07 - [MESSAGE][PASSED] - Text 'eranga@embla.asia' is set on object 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email'
+
+2022-10-10 16:27:07 - [TEST_STEP][PASSED] - click(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password")): Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password' is clicked on
+
+2022-10-10 16:27:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password' is clicked on
+
+2022-10-10 16:27:07 - [TEST_STEP][PASSED] - setText(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password"), "test123"): Text 'test123' is set on object 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password'
+
+2022-10-10 16:27:08 - [MESSAGE][PASSED] - Text 'test123' is set on object 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password'
+
+2022-10-10 16:27:08 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-10-10 16:27:09 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-10-10 16:27:09 - [TEST_STEP][PASSED] - click(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_login_locktop login2")): Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_login_locktop login2' is clicked on
+
+2022-10-10 16:27:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_login_locktop login2' is clicked on
+
+2022-10-10 16:27:26 - [TEST_STEP][PASSED] - navigateToUrl("https://dev.embla.no/Account/Login"): Navigate to 'https://dev.embla.no/Account/Login' successfully
+
+2022-10-10 16:27:27 - [MESSAGE][PASSED] - Navigate to 'https://dev.embla.no/Account/Login' successfully
+
+2022-10-10 16:27:27 - [TEST_STEP][PASSED] - waitForPageLoad(0): Wait for page load successfully
+
+2022-10-10 16:27:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 16:27:27 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-10 16:27:27 - [TEST_STEP][PASSED] - click(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/a_Versjon 10")): Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/a_Versjon 10' is clicked on
+
+2022-10-10 16:27:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/a_Versjon 10' is clicked on
+
+2022-10-10 16:27:46 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-10-10 16:27:49 - [MESSAGE][PASSED] - Delayed 3 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/CreateNewFamilyTree" time="13.15" classname="Test Cases/SmokeTestCases/CreateNewFamilyTree" status="PASSED">
+         <system-out><![CDATA[2022-10-10 16:27:49 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/CreateNewFamilyTree: Test Cases/SmokeTestCases/CreateNewFamilyTree
+
+2022-10-10 16:27:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_ Administrere familietrrOppret_4b7e8e")): Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_ Administrere familietrrOppret_4b7e8e' is clicked on
+
+2022-10-10 16:27:52 - [MESSAGE][PASSED] - Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_ Administrere familietrrOppret_4b7e8e' is clicked on
+
+2022-10-10 16:27:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Opprett nytt slektstre")): Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Opprett nytt slektstre' is clicked on
+
+2022-10-10 16:27:52 - [MESSAGE][PASSED] - Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Opprett nytt slektstre' is clicked on
+
+2022-10-10 16:27:52 - [TEST_STEP][PASSED] - setText(findTestObject("CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Navnet til familietreet_ProjectName"), "pasi123"): Text 'pasi123' is set on object 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Navnet til familietreet_ProjectName'
+
+2022-10-10 16:27:53 - [MESSAGE][PASSED] - Text 'pasi123' is set on object 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Navnet til familietreet_ProjectName'
+
+2022-10-10 16:27:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Fornavn_GivenName"), "pasi"): Text 'pasi' is set on object 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Fornavn_GivenName'
+
+2022-10-10 16:27:54 - [MESSAGE][PASSED] - Text 'pasi' is set on object 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Fornavn_GivenName'
+
+2022-10-10 16:27:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Etternavn_LastName"), "chathu"): Text 'chathu' is set on object 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Etternavn_LastName'
+
+2022-10-10 16:27:55 - [MESSAGE][PASSED] - Text 'chathu' is set on object 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Etternavn_LastName'
+
+2022-10-10 16:27:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Mann_gender")): Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Mann_gender' is clicked on
+
+2022-10-10 16:27:56 - [MESSAGE][PASSED] - Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/input_Mann_gender' is clicked on
+
+2022-10-10 16:27:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/button_Lagre")): Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/button_Lagre' is clicked on
+
+2022-10-10 16:27:56 - [MESSAGE][PASSED] - Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/button_Lagre' is clicked on
+
+2022-10-10 16:27:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 16:28:01 - [MESSAGE][PASSED] - Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 16:28:01 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 16:28:02 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/MemberEditor" time="6.223" classname="Test Cases/SmokeTestCases/MemberEditor" status="PASSED">
+         <system-out><![CDATA[2022-10-10 16:28:02 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/MemberEditor: Test Cases/SmokeTestCases/MemberEditor
+
+2022-10-10 16:28:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser")): Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser' is clicked on
+
+2022-10-10 16:28:06 - [MESSAGE][PASSED] - Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser' is clicked on
+
+2022-10-10 16:28:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person")): Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person' is clicked on
+
+2022-10-10 16:28:06 - [MESSAGE][PASSED] - Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person' is clicked on
+
+2022-10-10 16:28:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 16:28:08 - [MESSAGE][PASSED] - Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/FamilyEditor" time="7.262" classname="Test Cases/SmokeTestCases/FamilyEditor" status="PASSED">
+         <system-out><![CDATA[2022-10-10 16:28:08 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/FamilyEditor: Test Cases/SmokeTestCases/FamilyEditor
+
+2022-10-10 16:28:09 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 16:28:09 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 16:28:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571' is clicked on
+
+2022-10-10 16:28:12 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571' is clicked on
+
+2022-10-10 16:28:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_Familie")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_Familie' is clicked on
+
+2022-10-10 16:28:13 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_Familie' is clicked on
+
+2022-10-10 16:28:13 - [TEST_STEP][PASSED] - click(findTestObject("EditorNavigation/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 16:28:15 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 16:28:15 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 16:28:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 16:28:16 - [MESSAGE][PASSED] - Wait for page load successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/PublishFanChartReport" time="11.088" classname="Test Cases/SmokeTestCases/PublishFanChartReport" status="PASSED">
+         <system-out><![CDATA[2022-10-10 16:28:16 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/PublishFanChartReport: Test Cases/SmokeTestCases/PublishFanChartReport
+
+2022-10-10 16:28:16 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 16:28:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 16:28:16 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-10 16:28:16 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 16:28:16 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 16:28:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84")): Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84' is clicked on
+
+2022-10-10 16:28:20 - [MESSAGE][PASSED] - Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84' is clicked on
+
+2022-10-10 16:28:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_Anesirkel (blader)")): Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_Anesirkel (blader)' is clicked on
+
+2022-10-10 16:28:20 - [MESSAGE][PASSED] - Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_Anesirkel (blader)' is clicked on
+
+2022-10-10 16:28:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/div_Publiser")): Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/div_Publiser' is clicked on
+
+2022-10-10 16:28:23 - [MESSAGE][PASSED] - Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/div_Publiser' is clicked on
+
+2022-10-10 16:28:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/input_Tittel_reportTitle"), "Pasi"): Text 'Pasi' is set on object 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/input_Tittel_reportTitle'
+
+2022-10-10 16:28:24 - [MESSAGE][PASSED] - Text 'Pasi' is set on object 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/input_Tittel_reportTitle'
+
+2022-10-10 16:28:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/button_Publiser")): Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/button_Publiser' is clicked on
+
+2022-10-10 16:28:24 - [MESSAGE][PASSED] - Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/button_Publiser' is clicked on
+
+2022-10-10 16:28:24 - [TEST_STEP][PASSED] - click(findTestObject("EditorNavigation/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 16:28:27 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/ViewFanChartReport" time="11.606" classname="Test Cases/SmokeTestCases/ViewFanChartReport" status="PASSED">
+         <system-out><![CDATA[2022-10-10 16:28:27 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/ViewFanChartReport: Test Cases/SmokeTestCases/ViewFanChartReport
+
+2022-10-10 16:28:27 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 16:28:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 16:28:27 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-10 16:28:27 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 16:28:27 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 16:28:27 - [TEST_STEP][PASSED] - click(findTestObject("EditorNavigation/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 16:28:31 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 16:28:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84")): Object: 'Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84' is clicked on
+
+2022-10-10 16:28:35 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84' is clicked on
+
+2022-10-10 16:28:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_Anesirkel")): Object: 'Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_Anesirkel' is clicked on
+
+2022-10-10 16:28:35 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_Anesirkel' is clicked on
+
+2022-10-10 16:28:35 - [TEST_STEP][PASSED] - click(findTestObject("EditorNavigation/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 16:28:38 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/MulitimediaList" time="8.511" classname="Test Cases/SmokeTestCases/MulitimediaList" status="PASSED">
+         <system-out><![CDATA[2022-10-10 16:28:38 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/MulitimediaList: Test Cases/SmokeTestCases/MulitimediaList
+
+2022-10-10 16:28:38 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 16:28:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 16:28:38 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-10 16:28:38 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 16:28:39 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 16:28:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571")): Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571' is clicked on
+
+2022-10-10 16:28:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571' is clicked on
+
+2022-10-10 16:28:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_Multimedialiste")): Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_Multimedialiste' is clicked on
+
+2022-10-10 16:28:43 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_Multimedialiste' is clicked on
+
+2022-10-10 16:28:43 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 16:28:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 16:28:43 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-10 16:28:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt")): Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt' is clicked on
+
+2022-10-10 16:28:45 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt' is clicked on
+
+2022-10-10 16:28:45 - [TEST_STEP][PASSED] - click(findTestObject("CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem"), STOP_ON_FAILURE): Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 16:28:47 - [MESSAGE][PASSED] - Object: 'Object Repository/CreateNewFamilyTree/Page_Embla Familie og Slekt/a_Hjem' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/ExportFamilyTrees" time="19.822" classname="Test Cases/SmokeTestCases/ExportFamilyTrees" status="PASSED">
+         <system-out><![CDATA[2022-10-10 16:28:47 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/ExportFamilyTrees: Test Cases/SmokeTestCases/ExportFamilyTrees
+
+2022-10-10 16:28:47 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 16:28:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 16:28:47 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-10 16:28:47 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 16:28:48 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 16:28:48 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/i_Pasi_arrow down arrow-black")): Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/i_Pasi_arrow down arrow-black' is hovered
+
+2022-10-10 16:28:52 - [MESSAGE][PASSED] - Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/i_Pasi_arrow down arrow-black' is hovered
+
+2022-10-10 16:28:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Administrere familietrr")): Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Administrere familietrr' is clicked on
+
+2022-10-10 16:28:52 - [MESSAGE][PASSED] - Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Administrere familietrr' is clicked on
+
+2022-10-10 16:28:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap")): Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap' is clicked on
+
+2022-10-10 16:28:53 - [MESSAGE][PASSED] - Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_WEB_menu-edit-icon-wrap' is clicked on
+
+2022-10-10 16:28:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Eksport")): Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Eksport' is clicked on
+
+2022-10-10 16:28:54 - [MESSAGE][PASSED] - Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/div_Eksport' is clicked on
+
+2022-10-10 16:28:54 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/select_Velg typeGEDCOM"), "GEDCOM", true): All options with value 'GEDCOM' are selected in object 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/select_Velg typeGEDCOM'  using regular expression
+
+2022-10-10 16:28:55 - [MESSAGE][PASSED] - All options with value 'GEDCOM' are selected in object 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/select_Velg typeGEDCOM'  using regular expression
+
+2022-10-10 16:28:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/button_Eksporter fil")): Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/button_Eksporter fil' is clicked on
+
+2022-10-10 16:28:56 - [MESSAGE][PASSED] - Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/button_Eksporter fil' is clicked on
+
+2022-10-10 16:28:56 - [TEST_STEP][PASSED] - delay(10, STOP_ON_FAILURE): Delayed 10 second(s)
+
+2022-10-10 16:29:06 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2022-10-10 16:29:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 16:29:07 - [MESSAGE][PASSED] - Object: 'Object Repository/ExportFamilyTrees/Page_Embla Familie og Slekt/a_Hjem' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-10-10 16:26:57 - [TEST_SUITE][PASSED] - SmokeTestSuite: Test Cases/SmokeTestCases/ExportFamilyTrees]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Publiser</name>
+   <tag></tag>
+   <elementGuidId>2400d359-eda8-49d9-9bb0-ef03a4636231</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.publish</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoom for å utvide'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5536e2b5-ccdf-4dd5-83fb-74540cb4aae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>publish</value>
+      <webElementGuid>338ce680-3215-4910-a7cc-3419df1b9868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Publiser</value>
+      <webElementGuid>05646edf-1a01-4c1d-a9f2-8fcab0d843cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-reportengine-template[1]/div[@class=&quot;base-content-wrapper&quot;]/div[@class=&quot;main-content-wrapper&quot;]/app-mainreportengineview[1]/div[@class=&quot;maindiv&quot;]/div[@class=&quot;publish&quot;]</value>
+      <webElementGuid>e9a13ab6-a165-4874-9518-c993fdcea2bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zoom for å utvide'])[1]/following::div[1]</value>
+      <webElementGuid>bed5b966-f91b-439c-81ec-c709860568e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tilbakestille'])[1]/following::div[2]</value>
+      <webElementGuid>b2875388-44f3-42fc-85aa-6d5bb8865bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verktøy'])[1]/preceding::div[1]</value>
+      <webElementGuid>75475be0-2ac2-42e1-93c6-cc17944a3a8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-mainreportengineview/div/div[8]</value>
+      <webElementGuid>1807093c-23c7-45b3-ae1c-782f5bcc4e94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Publiser' or . = 'Publiser')]</value>
+      <webElementGuid>72f49c3b-847a-4d3d-b6eb-aa9250916653</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

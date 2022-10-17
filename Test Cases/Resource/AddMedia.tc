@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddMedia</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78f25f1e-d4c7-409a-a30c-2dacbfca2f5b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e503bab2-f606-436c-b1c0-07396210492e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'D:\\\\EmblaFT\\\\Files\\\\Images\\\\M1.png'</defaultValue>
+      <description></description>
+      <id>e503bab2-f606-436c-b1c0-07396210492e</id>
+      <masked>false</masked>
+      <name>image</name>
+   </variable>
+</TestCaseEntity>

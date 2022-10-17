@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>manindrop</name>
+   <tag></tag>
+   <elementGuidId>94da61d4-a782-4d2e-a24c-f61ce16f8be0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.selected-project</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>995a921b-fb4c-410b-bac7-eed2a5c45314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected-project</value>
+      <webElementGuid>7c08c084-5dc6-4a95-933d-065493c7cadf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pasi Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga FamilyYasas Postman3PasiYasasHakoonØystein Haaland sitt familietreKDU FT</value>
+      <webElementGuid>a49649e1-56b6-4d39-b2f9-7d7193b5ea39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-dashboard[1]/app-subheader-main[1]/div[@class=&quot;sub-header-container&quot;]/div[@class=&quot;project-breadcrumb-base-container&quot;]/app-family-projects[1]/div[@class=&quot;selected-project&quot;]</value>
+      <webElementGuid>20101984-df35-48be-8745-d61827791db6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[4]</value>
+      <webElementGuid>06164c68-1d13-413e-805c-7571cc62b9b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version 10.1.119'])[1]/following::div[5]</value>
+      <webElementGuid>d49d881d-4c7f-4bab-a86f-271ea015e8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-family-projects/div</value>
+      <webElementGuid>00eb9dd5-3505-4382-9f2b-713c0b226a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Pasi Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga FamilyYasas Postman3PasiYasasHakoonØystein Haaland sitt familietreKDU FT' or . = ' Pasi Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga FamilyYasas Postman3PasiYasasHakoonØystein Haaland sitt familietreKDU FT')]</value>
+      <webElementGuid>f143d691-70af-49d6-b2c6-e93c1e64b903</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

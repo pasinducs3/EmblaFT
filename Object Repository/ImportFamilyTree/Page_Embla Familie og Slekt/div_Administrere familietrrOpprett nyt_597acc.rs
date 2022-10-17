@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Administrere familietrrOpprett nyt_597acc</name>
+   <tag></tag>
+   <elementGuidId>6f836d86-6567-4f4f-b26f-3103c06e09ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.selected-project</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6e1eeea1-b95c-459f-be74-ff95ac9cfe73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected-project</value>
+      <webElementGuid>fe1a6b72-af24-4576-8aae-83842af545a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pasi Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga FamilyYasas Postman3PasiYasasHakoonsupun testØystein Haaland sitt familietreKDU FTDate Test</value>
+      <webElementGuid>83bd6855-79d6-47d0-bbd3-85fcb286f272</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-dashboard[1]/app-subheader-main[1]/div[@class=&quot;sub-header-container&quot;]/div[@class=&quot;project-breadcrumb-base-container&quot;]/app-family-projects[1]/div[@class=&quot;selected-project&quot;]</value>
+      <webElementGuid>144e2c08-a17b-43b6-8f8b-fd6c8b4b8749</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[4]</value>
+      <webElementGuid>f96125e8-db62-4456-945a-aea8c04ff876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version 10.1.121'])[1]/following::div[5]</value>
+      <webElementGuid>0f5a891c-3f19-4468-8047-e38cb72ba071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-family-projects/div</value>
+      <webElementGuid>992a7df7-555a-49e8-aeab-c974fb5e2053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Pasi Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga FamilyYasas Postman3PasiYasasHakoonsupun testØystein Haaland sitt familietreKDU FTDate Test' or . = ' Pasi Administrere familietrærOpprett nytt slektstrePasi Tree 1Eranga FamilyYasas Postman3PasiYasasHakoonsupun testØystein Haaland sitt familietreKDU FTDate Test')]</value>
+      <webElementGuid>230c93af-d013-40a1-a6f1-f4d767d6ce0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SmokeTestSuite" time="149.586" tests="8" failures="2" errors="0">
+   <testsuite name="SmokeTestSuite" tests="8" failures="2" errors="0" time="149.586" skipped="0" timestamp="2022-10-10 15:26:19" hostname="pasindus - ITELPTD031.embla.lk" id="Test Suites/SmokeTestSuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\PasinduS\\Katalon Studio\\EmblaFT\\Reports\\20221010_152605\\SmokeTestSuite\\20221010_152605"/>
+         <property name="logFiles" value="C:\\Users\\PasinduS\\Katalon Studio\\EmblaFT\\Reports\\20221010_152605\\SmokeTestSuite\\20221010_152605\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\PasinduS\\Katalon Studio\\EmblaFT\\Reports\\20221010_152605\\SmokeTestSuite\\20221010_152605\\1665395827333.png, C:\\Users\\PasinduS\\Katalon Studio\\EmblaFT\\Reports\\20221010_152605\\SmokeTestSuite\\20221010_152605\\1665395917090.png"/>
+         <property name="hostName" value="pasindus - ITELPTD031.embla.lk"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.4.1.208"/>
+         <property name="browser" value="Chrome 106.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.52"/>
+         <property name="sessionId" value="04ae29eb472bd57f7ba5be19254f3021"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/SmokeTestCases/Login" time="44.311" classname="Test Cases/SmokeTestCases/Login" status="PASSED">
+         <system-out><![CDATA[2022-10-10 15:26:19 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/Login: Test Cases/SmokeTestCases/Login
+
+2022-10-10 15:26:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-10-10 15:26:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-10-10 15:26:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-10-10 15:26:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-10-10 15:26:24 - [TEST_STEP][PASSED] - deleteAllCookies(): Delete all cookies successfully
+
+2022-10-10 15:26:24 - [MESSAGE][PASSED] - Delete all cookies successfully
+
+2022-10-10 15:26:24 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-10-10 15:26:24 - [MESSAGE][PASSED] - Current window maximized
+
+2022-10-10 15:26:24 - [TEST_STEP][PASSED] - navigateToUrl("https://dev.embla.no/"): Navigate to 'https://dev.embla.no/' successfully
+
+2022-10-10 15:26:27 - [MESSAGE][PASSED] - Navigate to 'https://dev.embla.no/' successfully
+
+2022-10-10 15:26:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-10-10 15:26:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-10-10 15:26:30 - [TEST_STEP][PASSED] - click(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email")): Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email' is clicked on
+
+2022-10-10 15:26:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email' is clicked on
+
+2022-10-10 15:26:31 - [TEST_STEP][PASSED] - setText(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email", ["variable":"eranga@embla.asia"]), "eranga@embla.asia"): Text 'eranga@embla.asia' is set on object 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email'
+
+2022-10-10 15:26:32 - [MESSAGE][PASSED] - Text 'eranga@embla.asia' is set on object 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Email'
+
+2022-10-10 15:26:32 - [TEST_STEP][PASSED] - click(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password")): Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password' is clicked on
+
+2022-10-10 15:26:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password' is clicked on
+
+2022-10-10 15:26:32 - [TEST_STEP][PASSED] - setText(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password"), "test123"): Text 'test123' is set on object 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password'
+
+2022-10-10 15:26:33 - [MESSAGE][PASSED] - Text 'test123' is set on object 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_Password'
+
+2022-10-10 15:26:33 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+2022-10-10 15:26:34 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2022-10-10 15:26:34 - [TEST_STEP][PASSED] - click(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_login_locktop login2")): Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_login_locktop login2' is clicked on
+
+2022-10-10 15:26:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/input_Passord_login_locktop login2' is clicked on
+
+2022-10-10 15:26:51 - [TEST_STEP][PASSED] - navigateToUrl("https://dev.embla.no/Account/Login"): Navigate to 'https://dev.embla.no/Account/Login' successfully
+
+2022-10-10 15:26:52 - [MESSAGE][PASSED] - Navigate to 'https://dev.embla.no/Account/Login' successfully
+
+2022-10-10 15:26:52 - [TEST_STEP][PASSED] - waitForPageLoad(7): Wait for page load successfully
+
+2022-10-10 15:26:52 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-10 15:26:52 - [TEST_STEP][PASSED] - click(findTestObject("Objects Base/Page_Embla Norsk Familiehistorie/a_Versjon 10")): Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/a_Versjon 10' is clicked on
+
+2022-10-10 15:27:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/Page_Embla Norsk Familiehistorie/a_Versjon 10' is clicked on
+
+2022-10-10 15:27:01 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-10-10 15:27:04 - [MESSAGE][PASSED] - Delayed 3 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/CreateNewFamilyTree" time="3.968" classname="Test Cases/SmokeTestCases/CreateNewFamilyTree" status="FAILED">
+         <failure type="FAILED" message="Test Cases/SmokeTestCases/CreateNewFamilyTree FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$4.call(Unknown Source)
+	at CreateNewFamilyTree.run(CreateNewFamilyTree:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665395765805.run(TempTestSuite1665395765805.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2022-10-10 15:27:04 - [TEST_CASE][FAILED] - Test Cases/SmokeTestCases/CreateNewFamilyTree: Test Cases/SmokeTestCases/CreateNewFamilyTree FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$4.call(Unknown Source)
+	at CreateNewFamilyTree.run(CreateNewFamilyTree:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665395765805.run(TempTestSuite1665395765805.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2022-10-10 15:27:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Objects Base/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Hello PIG Administrere familietrrOppret_4b7e8e")): Object: 'Object Repository/Objects Base/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Hello PIG Administrere familietrrOppret_4b7e8e' is clicked on
+
+2022-10-10 15:27:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Hello PIG Administrere familietrrOppret_4b7e8e' is clicked on
+
+2022-10-10 15:27:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Objects Base/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Opprett nytt slektstre")): Object: 'Object Repository/Objects Base/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Opprett nytt slektstre' is clicked on
+
+2022-10-10 15:27:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Objects Base/CreateNewFamilyTree/Page_Embla Familie og Slekt/div_Opprett nytt slektstre' is clicked on
+
+2022-10-10 15:27:07 - [TEST_STEP][FAILED] - setText(findTestObject("Page_Embla Familie og Slekt/input_Navnet til familietreet_ProjectName"), "pasi123"): Unable to set text (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$4.call(Unknown Source)
+	at CreateNewFamilyTree.run(CreateNewFamilyTree:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665395765805.run(TempTestSuite1665395765805.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$4.call(Unknown Source)
+	at Script1664429679175.run(Script1664429679175.groovy:24)
+	... 13 more
+)
+
+2022-10-10 15:27:07 - [MESSAGE][WARNING] - Test object with id 'Object Repository/Page_Embla Familie og Slekt/input_Navnet til familietreet_ProjectName' does not exist
+
+2022-10-10 15:27:07 - [MESSAGE][WARNING] - Test object with id 'Object Repository/' does not exist
+
+2022-10-10 15:27:08 - [MESSAGE][FAILED] - Unable to set text (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$4.call(Unknown Source)
+	at CreateNewFamilyTree.run(CreateNewFamilyTree:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665395765805.run(TempTestSuite1665395765805.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$4.call(Unknown Source)
+	at Script1664429679175.run(Script1664429679175.groovy:24)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\PasinduS\\Katalon Studio\\EmblaFT\\Reports\\20221010_152605\\SmokeTestSuite\\20221010_152605\\1665395827333.png]]]]></system-out>
+         <system-err><![CDATA[2022-10-10 15:27:04 - [TEST_CASE][FAILED] - Test Cases/SmokeTestCases/CreateNewFamilyTree: Test Cases/SmokeTestCases/CreateNewFamilyTree FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$4.call(Unknown Source)
+	at CreateNewFamilyTree.run(CreateNewFamilyTree:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665395765805.run(TempTestSuite1665395765805.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/MemberEditor" time="25.611" classname="Test Cases/SmokeTestCases/MemberEditor" status="PASSED">
+         <system-out><![CDATA[2022-10-10 15:27:08 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/MemberEditor: Test Cases/SmokeTestCases/MemberEditor
+
+2022-10-10 15:27:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser")): Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser' is clicked on
+
+2022-10-10 15:27:30 - [MESSAGE][PASSED] - Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser' is clicked on
+
+2022-10-10 15:27:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person")): Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person' is clicked on
+
+2022-10-10 15:27:30 - [MESSAGE][PASSED] - Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person' is clicked on
+
+2022-10-10 15:27:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 15:27:33 - [MESSAGE][PASSED] - Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/FamilyEditor" time="9.019" classname="Test Cases/SmokeTestCases/FamilyEditor" status="PASSED">
+         <system-out><![CDATA[2022-10-10 15:27:33 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/FamilyEditor: Test Cases/SmokeTestCases/FamilyEditor
+
+2022-10-10 15:27:34 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 15:27:35 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 15:27:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571' is clicked on
+
+2022-10-10 15:27:39 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571' is clicked on
+
+2022-10-10 15:27:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_Familie")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_Familie' is clicked on
+
+2022-10-10 15:27:40 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/li_Familie' is clicked on
+
+2022-10-10 15:27:40 - [TEST_STEP][PASSED] - click(findTestObject("EditorNavigation/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 15:27:42 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 15:27:42 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 15:27:42 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 15:27:42 - [MESSAGE][PASSED] - Wait for page load successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/MemberEditor" time="5.521" classname="Test Cases/SmokeTestCases/MemberEditor" status="PASSED">
+         <system-out><![CDATA[2022-10-10 15:27:42 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/MemberEditor: Test Cases/SmokeTestCases/MemberEditor
+
+2022-10-10 15:27:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser")): Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser' is clicked on
+
+2022-10-10 15:27:46 - [MESSAGE][PASSED] - Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Ressurser' is clicked on
+
+2022-10-10 15:27:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person")): Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person' is clicked on
+
+2022-10-10 15:27:46 - [MESSAGE][PASSED] - Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/li_Person' is clicked on
+
+2022-10-10 15:27:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 15:27:48 - [MESSAGE][PASSED] - Object: 'Object Repository/MemberEditor/Page_Embla Familie og Slekt/a_Hjem' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/PublishFanChartReport" time="12.233" classname="Test Cases/SmokeTestCases/PublishFanChartReport" status="PASSED">
+         <system-out><![CDATA[2022-10-10 15:27:48 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/PublishFanChartReport: Test Cases/SmokeTestCases/PublishFanChartReport
+
+2022-10-10 15:27:48 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 15:27:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 15:27:48 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-10 15:27:48 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 15:27:49 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 15:27:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84")): Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84' is clicked on
+
+2022-10-10 15:27:53 - [MESSAGE][PASSED] - Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84' is clicked on
+
+2022-10-10 15:27:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_Anesirkel (blader)")): Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_Anesirkel (blader)' is clicked on
+
+2022-10-10 15:27:53 - [MESSAGE][PASSED] - Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/li_Anesirkel (blader)' is clicked on
+
+2022-10-10 15:27:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/div_Publiser")): Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/div_Publiser' is clicked on
+
+2022-10-10 15:27:56 - [MESSAGE][PASSED] - Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/div_Publiser' is clicked on
+
+2022-10-10 15:27:56 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/input_Tittel_reportTitle"), "Pasi"): Text 'Pasi' is set on object 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/input_Tittel_reportTitle'
+
+2022-10-10 15:27:57 - [MESSAGE][PASSED] - Text 'Pasi' is set on object 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/input_Tittel_reportTitle'
+
+2022-10-10 15:27:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/PublishFanReport/Page_Embla Familie og Slekt/button_Publiser")): Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/button_Publiser' is clicked on
+
+2022-10-10 15:27:58 - [MESSAGE][PASSED] - Object: 'Object Repository/PublishFanReport/Page_Embla Familie og Slekt/button_Publiser' is clicked on
+
+2022-10-10 15:27:58 - [TEST_STEP][PASSED] - click(findTestObject("EditorNavigation/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 15:28:00 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 15:28:00 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 15:28:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 15:28:00 - [MESSAGE][PASSED] - Wait for page load successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/MulitimediaList" time="36.668" classname="Test Cases/SmokeTestCases/MulitimediaList" status="FAILED">
+         <failure type="FAILED" message="Test Cases/SmokeTestCases/MulitimediaList FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at MulitimediaList.run(MulitimediaList:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665395765805.run(TempTestSuite1665395765805.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt' located by '(.//*[normalize-space(text()) and normalize-space(.)='Agnes Sletten.JPG'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2022-10-10 15:28:00 - [TEST_CASE][FAILED] - Test Cases/SmokeTestCases/MulitimediaList: Test Cases/SmokeTestCases/MulitimediaList FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at MulitimediaList.run(MulitimediaList:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665395765805.run(TempTestSuite1665395765805.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt' located by '(.//*[normalize-space(text()) and normalize-space(.)='Agnes Sletten.JPG'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2022-10-10 15:28:01 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 15:28:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 15:28:01 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-10 15:28:01 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 15:28:01 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 15:28:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571")): Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571' is clicked on
+
+2022-10-10 15:28:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_RessurserOversiktPersonFamilieStedsnavns_bc2571' is clicked on
+
+2022-10-10 15:28:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_Multimedialiste")): Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_Multimedialiste' is clicked on
+
+2022-10-10 15:28:05 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/li_Multimedialiste' is clicked on
+
+2022-10-10 15:28:05 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 15:28:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 15:28:05 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-10 15:28:05 - [TEST_STEP][FAILED] - click(findTestObject("ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt")): Unable to click on object 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at MulitimediaList.run(MulitimediaList:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665395765805.run(TempTestSuite1665395765805.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt' located by '(.//*[normalize-space(text()) and normalize-space(.)='Agnes Sletten.JPG'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1664890502734.run(Script1664890502734.groovy:30)
+	... 13 more
+)
+
+2022-10-10 15:28:37 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (.//*[normalize-space(text()) and normalize-space(.)='Agnes Sletten.JPG'])[1]/following::button[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-10-10 15:28:37 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at MulitimediaList.run(MulitimediaList:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665395765805.run(TempTestSuite1665395765805.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt' located by '(.//*[normalize-space(text()) and normalize-space(.)='Agnes Sletten.JPG'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at Script1664890502734.run(Script1664890502734.groovy:30)
+	... 13 more
+)
+[[ATTACHMENT|C:\\Users\\PasinduS\\Katalon Studio\\EmblaFT\\Reports\\20221010_152605\\SmokeTestSuite\\20221010_152605\\1665395917090.png]]]]></system-out>
+         <system-err><![CDATA[2022-10-10 15:28:00 - [TEST_CASE][FAILED] - Test Cases/SmokeTestCases/MulitimediaList: Test Cases/SmokeTestCases/MulitimediaList FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)
+	at MulitimediaList.run(MulitimediaList:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665395765805.run(TempTestSuite1665395765805.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ViewMulitimediaList/Page_Embla Familie og Slekt/button_Avbryt' located by '(.//*[normalize-space(text()) and normalize-space(.)='Agnes Sletten.JPG'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/SmokeTestCases/ViewFanChartReport" time="11.643" classname="Test Cases/SmokeTestCases/ViewFanChartReport" status="PASSED">
+         <system-out><![CDATA[2022-10-10 15:28:37 - [TEST_CASE][PASSED] - Test Cases/SmokeTestCases/ViewFanChartReport: Test Cases/SmokeTestCases/ViewFanChartReport
+
+2022-10-10 15:28:37 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 15:28:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 15:28:37 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2022-10-10 15:28:37 - [TEST_STEP][PASSED] - navigateToUrl("http://dev.ft.embla.no/dashboard"): Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 15:28:37 - [MESSAGE][PASSED] - Navigate to 'http://dev.ft.embla.no/dashboard' successfully
+
+2022-10-10 15:28:37 - [TEST_STEP][PASSED] - click(findTestObject("EditorNavigation/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 15:28:41 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 15:28:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84")): Object: 'Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84' is clicked on
+
+2022-10-10 15:28:45 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_RapporterRapportpanelAnesirkelAnesirkel _43cf84' is clicked on
+
+2022-10-10 15:28:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_Anesirkel")): Object: 'Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_Anesirkel' is clicked on
+
+2022-10-10 15:28:45 - [MESSAGE][PASSED] - Object: 'Object Repository/ViewFanChartReport/Page_Embla Familie og Slekt/li_Anesirkel' is clicked on
+
+2022-10-10 15:28:45 - [TEST_STEP][PASSED] - click(findTestObject("EditorNavigation/Page_Embla Familie og Slekt/a_Hjem")): Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 15:28:48 - [MESSAGE][PASSED] - Object: 'Object Repository/EditorNavigation/Page_Embla Familie og Slekt/a_Hjem' is clicked on
+
+2022-10-10 15:28:48 - [TEST_STEP][PASSED] - waitForPageLoad(0, STOP_ON_FAILURE): Wait for page load successfully
+
+2022-10-10 15:28:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-10-10 15:28:48 - [MESSAGE][PASSED] - Wait for page load successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-10-10 15:26:19 - [TEST_SUITE][FAILED] - SmokeTestSuite: Test Cases/SmokeTestCases/CreateNewFamilyTree FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$4.call(Unknown Source)
+	at CreateNewFamilyTree.run(CreateNewFamilyTree:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665395765805.run(TempTestSuite1665395765805.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2022-10-10 15:26:19 - [TEST_SUITE][FAILED] - SmokeTestSuite: Test Cases/SmokeTestCases/CreateNewFamilyTree FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$4.call(Unknown Source)
+	at CreateNewFamilyTree.run(CreateNewFamilyTree:24)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:144)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1665395765805.run(TempTestSuite1665395765805.groovy:36)
+Caused by: java.lang.IllegalArgumentException: Object is null
+	at com.kms.katalon.core.helper.KeywordHelper.checkTestObjectParameter(KeywordHelper.java:33)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:45)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

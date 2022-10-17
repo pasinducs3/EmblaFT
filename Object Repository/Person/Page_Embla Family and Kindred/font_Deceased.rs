@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Deceased</name>
+   <tag></tag>
+   <elementGuidId>0690af7b-aae2-413d-80fe-d7e5a1568522</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='ngFormIndividual']/fieldset/div[4]/div/div/div/div[2]/label/font/font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>f325e6d6-3f11-402b-8e97-30069f1121f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deceased</value>
+      <webElementGuid>bfdb0f57-8f61-4b36-96da-03c347c0a3c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ngFormIndividual&quot;)/fieldset[1]/div[@class=&quot;ft-form-row col1-v100&quot;]/div[1]/div[@class=&quot;ft-form-input&quot;]/div[1]/div[@class=&quot;input-radio-container&quot;]/label[1]/font[1]/font[1]</value>
+      <webElementGuid>6ac2d29b-f811-4e84-873d-c7c92f11b11b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ngFormIndividual']/fieldset/div[4]/div/div/div/div[2]/label/font/font</value>
+      <webElementGuid>6f250e80-b0bd-4f9f-b293-89d611a3095c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I live'])[1]/following::font[2]</value>
+      <webElementGuid>5018955c-9e46-4542-a28d-c6c45ab02663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birthplace'])[1]/following::font[2]</value>
+      <webElementGuid>2e00d733-eb31-4edc-a818-ba3b74c4a832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unknown'])[2]/preceding::font[1]</value>
+      <webElementGuid>d9af4a69-9166-4c89-ad29-1c256d01a83e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of death'])[1]/preceding::font[3]</value>
+      <webElementGuid>5cd05a29-1cc4-4335-b90b-281fdf39d657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Deceased']/parent::*</value>
+      <webElementGuid>124c06ae-ca83-4a8e-aa5e-a211242fcf1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/label/font/font</value>
+      <webElementGuid>c771ac88-eff2-42cd-af0c-22280d3e68b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'Deceased' or . = 'Deceased')]</value>
+      <webElementGuid>58022e7b-a654-4d70-ac5c-1d93cd4da342</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

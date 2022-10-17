@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Import</name>
+   <tag></tag>
+   <elementGuidId>0535a15b-9245-4280-8b24-2f2904d83829</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Look at family tree'])[1]/following::font[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>cb10e641-a875-4ab0-83cf-f475873c5ca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Import</value>
+      <webElementGuid>e3534585-3eea-4ef2-a21d-2a8e79d46b4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;translated-ltr&quot;]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-family-project-main[1]/div[@class=&quot;ft-form&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;list-gallery&quot;]/app-family-project-list[1]/div[@class=&quot;list-content&quot;]/div[@class=&quot;list-container&quot;]/div[2]/div[@class=&quot;item&quot;]/div[@class=&quot;item-options&quot;]/app-drop-menu[1]/div[@class=&quot;menu-container&quot;]/div[@class=&quot;menu-items-base menu_items-1&quot;]/div[2]/div[@class=&quot;menu-item&quot;]/div[@class=&quot;menu_items-text&quot;]/font[1]/font[1]</value>
+      <webElementGuid>f1e5c7fd-d534-4821-9080-f03adca41ec3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Look at family tree'])[1]/following::font[2]</value>
+      <webElementGuid>7d1ef3b1-f2d4-48ff-93ef-ae5ecbf6f941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WEB'])[2]/following::font[6]</value>
+      <webElementGuid>060f2544-cfe2-4b86-ba88-8a933b601156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/preceding::font[1]</value>
+      <webElementGuid>7fcd20af-aada-4a12-a6a7-2eb17e0e67d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download the latest backup'])[1]/preceding::font[3]</value>
+      <webElementGuid>f6b52463-a9ec-4c15-9db6-241cbc35b789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/font/font</value>
+      <webElementGuid>a7b47ec8-d3c5-412d-aba5-745c2245b77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = 'Import' or . = 'Import')]</value>
+      <webElementGuid>226faa70-902e-4316-b5de-87de97d3620c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

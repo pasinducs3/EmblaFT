@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AddMedia</name>
+   <tag></tag>
+   <elementGuidId>08706565-f9d3-436a-860e-1abf9d578ee9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/div[2]/app-editor/div/div/app-individual-editor-main/div/div/div[2]/app-events-main/div/div/div[2]/app-event-form/div/div[1]/form/fieldset/div[6]/div[1]/label/img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app-root/div/div[2]/app-editor/div/div/app-individual-editor-main/div/div/div[2]/app-events-main/div/div/div[2]/app-event-form/div/div[1]/form/fieldset/div[6]/div[1]/label/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/div[2]/app-editor/div/div/app-individual-editor-main/div/div/div[2]/app-events-main/div/div/div[2]/app-event-form/div/div[1]/form/fieldset/div[6]/div[1]/label/img</value>
+      <webElementGuid>46ea7e8a-f62e-4fe6-bf50-42920cda5cba</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

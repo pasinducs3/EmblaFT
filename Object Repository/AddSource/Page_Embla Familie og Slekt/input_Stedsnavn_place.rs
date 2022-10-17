@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Stedsnavn_place</name>
+   <tag></tag>
+   <elementGuidId>c76874f0-1604-491b-96fd-4d0804ab23ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='place ']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;place &quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ddae9d7c-1ba6-43aa-834e-0af31b74c886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>place </value>
+      <webElementGuid>a21be8f9-eb10-4a00-a406-085ce556be92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>3436fff7-8b0f-4c78-80b7-bac78d3f3e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>place </value>
+      <webElementGuid>f78bf7e9-14ea-4ce3-afae-3266f65571bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-is-disabled</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7e325879-dc91-47b4-a5f6-7aeedd135c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine</value>
+      <webElementGuid>74a28d09-723b-4616-b1eb-9605bdfc80b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/app-dialog[1]/div[1]/div[@class=&quot;dialog-container active-dialog&quot;]/app-multimedia-main[1]/div[1]/div[@class=&quot;tab-container app-dark-bg&quot;]/div[@class=&quot;tab-forms app-light-bg&quot;]/app-multimedia-editor[1]/div[@class=&quot;ft-form&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ft-form-row col2-vf&quot;]/div[@class=&quot;ft-form-input&quot;]/div[1]/input[@class=&quot;ng-untouched ng-pristine&quot;]</value>
+      <webElementGuid>bf493cae-1f70-4a5b-b0db-03ab59c6f8d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='place ']</value>
+      <webElementGuid>9fccd56e-3606-4324-94e5-99c64f78aff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/input</value>
+      <webElementGuid>393c7e24-4399-47c8-b4c5-92e5f95c313f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'place ' and @type = 'text']</value>
+      <webElementGuid>234df176-7134-43a1-9b75-41294d29361e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

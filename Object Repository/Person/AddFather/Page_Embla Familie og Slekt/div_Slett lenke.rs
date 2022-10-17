@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Slett lenke</name>
+   <tag></tag>
+   <elementGuidId>a8636b2f-1a97-47f6-84e1-653565964014</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='familyViewModel']/fieldset/div/div[2]/div/div/div[3]/app-drop-menu/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu_items-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7381a23b-b159-4c42-85ec-c90058e7ff72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu_items-text</value>
+      <webElementGuid>b439fd62-acee-4a89-af2a-12aa14f86af1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-klass</name>
+      <type>Main</type>
+      <value>menu_items-text</value>
+      <webElementGuid>ca6922d4-192f-4d8b-9272-4c5e9ff2c3a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>78c7092f-539c-4f3e-858c-d5c80d0fd481</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Slett lenke</value>
+      <webElementGuid>c58cab70-5238-44ec-a6e0-91a124fe1e23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;familyViewModel&quot;)/fieldset[1]/div[@class=&quot;ft-form-row col2-vf&quot;]/div[@class=&quot;center&quot;]/div[@class=&quot;family-parent-warp&quot;]/div[@class=&quot;family-individual-wrap&quot;]/div[@class=&quot;family-individual-menu-wrap&quot;]/app-drop-menu[1]/div[@class=&quot;menu-container&quot;]/div[@class=&quot;menu-items-base menu_items-0&quot;]/div[1]/div[@class=&quot;menu-item&quot;]/div[@class=&quot;menu_items-text&quot;]</value>
+      <webElementGuid>ef52b080-5646-4033-9674-24ce25f0a17c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='familyViewModel']/fieldset/div/div[2]/div/div/div[3]/app-drop-menu/div/div[2]/div/div/div</value>
+      <webElementGuid>58b093a7-d3c7-4b8c-9ffd-c94a7dda509f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PasiFarther'])[1]/following::div[7]</value>
+      <webElementGuid>57343f84-2d2e-4d83-831e-fe050fe19257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Far'])[1]/following::div[8]</value>
+      <webElementGuid>bca723aa-bcf0-4243-88d5-e0861eb6437e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rediger'])[1]/preceding::div[1]</value>
+      <webElementGuid>de8b393b-d276-4760-b5a4-ad864874af2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mor'])[1]/preceding::div[6]</value>
+      <webElementGuid>a618d9fa-077b-4f31-9b93-16afee479756</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Slett lenke']/parent::*</value>
+      <webElementGuid>8d8ff706-5fb1-4745-8dd7-21223b017ba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-drop-menu/div/div[2]/div/div/div</value>
+      <webElementGuid>93bdaf26-4490-4cc5-b729-862ba8e3e708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Slett lenke' or . = 'Slett lenke')]</value>
+      <webElementGuid>095c9a63-5c9e-4b29-a5bf-f5e1747c7848</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

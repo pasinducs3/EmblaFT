@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Farens navn_ng-untouched ng-pristine _38e77f</name>
+   <tag></tag>
+   <elementGuidId>0ca21531-b79b-44f6-8005-8f8a443e5f84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.base-content-wrapper > app-message-dialog > div.base-panel > div.content-panel > div.content-container > app-individual-prompt > div > div.ft-form-row > div.ft-form-input > input.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>82e50d3c-b184-44a7-bb32-d4b9c50c4cbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ec0f9bc4-1ecd-427e-a044-3924f2a232cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>a11de9d2-5057-4612-b95f-9bbda17ba96a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/div[2]/app-report[1]/div[@class=&quot;base-content-wrapper&quot;]/app-message-dialog[1]/div[@class=&quot;base-panel&quot;]/div[@class=&quot;content-panel&quot;]/div[@class=&quot;content-container&quot;]/app-individual-prompt[1]/div[1]/div[@class=&quot;ft-form-row&quot;]/div[@class=&quot;ft-form-input&quot;]/input[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>15566291-e7e1-42f7-8673-3bb9d8172338</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>24e4ecd0-7b2a-4621-b072-d2083569eff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-report/div/app-message-dialog/div/div[2]/div/app-individual-prompt/div/div[2]/div/input</value>
+      <webElementGuid>3a4a61e7-0b17-4923-b9a2-ac8fdac32ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>3e910755-8197-454e-9ec8-9294d16b2354</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

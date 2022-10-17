@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Sted_ng-untouched ng-pristine ng-valid</name>
+   <tag></tag>
+   <elementGuidId>fcff364d-7314-4c9f-9213-111885b6584a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.place-input > input.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9f38690a-e0dd-4422-8159-173660bf5fde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>675fbf62-ce0a-4e54-afdb-d33639f1555a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-form</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>0c4f49d4-6fb2-47be-b86e-1e31d6a82620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Stedsnavn, Gård, Sokn, Kommune, Fylke, Land</value>
+      <webElementGuid>e446e1bc-4a50-4226-ad01-bfb870902aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>c04b1162-d9cd-49b1-853d-8940015578cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eventModel&quot;)/fieldset[1]/div[@class=&quot;ft-form-row col2-vf&quot;]/div[2]/div[@class=&quot;ft-form-row col2-vf event-place-date&quot;]/div[@class=&quot;ft-form-input&quot;]/app-place-input[1]/div[@class=&quot;place-input&quot;]/input[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>a6663200-680b-4ac2-87f8-d429cbc1fd30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[12]</value>
+      <webElementGuid>f1732e85-46f8-4e0b-8b64-c4d8aaf9d735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='eventModel']/fieldset/div[2]/div[2]/div[2]/div[2]/app-place-input/div/input</value>
+      <webElementGuid>71a00861-3ee5-4f7a-b0ad-45aca9eb6d67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/app-place-input/div/input</value>
+      <webElementGuid>afd85000-e0c6-4c65-ac2d-1d2ee5bf5ff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Stedsnavn, Gård, Sokn, Kommune, Fylke, Land']</value>
+      <webElementGuid>83e2914d-c966-4bc7-8d57-4c3db460f348</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

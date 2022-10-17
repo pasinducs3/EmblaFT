@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Legg kilde til_menu-edit-icon-1</name>
+   <tag></tag>
+   <elementGuidId>150e727f-a4fb-4d48-a8b9-17efb8ca221c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='ngFormSource']/div[2]/div/app-image-carousel-temp/div/app-drop-menu/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.menu-edit-icon-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>67aac7ca-8916-4790-aaac-6dc6589488fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/icons/edit-pen-1.svg</value>
+      <webElementGuid>c37c4ccf-c5a9-47a5-8f84-decf11c9f4af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-edit-icon-1</value>
+      <webElementGuid>ae9922c4-5a1b-4d75-ae12-fa014d7ac6ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ngFormSource&quot;)/div[@class=&quot;ft-form-row col2-vf&quot;]/div[@class=&quot;border-outline&quot;]/app-image-carousel-temp[1]/div[1]/app-drop-menu[1]/div[@class=&quot;menu-container&quot;]/div[@class=&quot;menu-edit-icon-wrap&quot;]/img[@class=&quot;menu-edit-icon-1&quot;]</value>
+      <webElementGuid>efe56d57-65b0-4742-a07b-247ce082a2bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ngFormSource']/div[2]/div/app-image-carousel-temp/div/app-drop-menu/div/div/img</value>
+      <webElementGuid>556c3cf1-d0b9-439b-872f-ac886f886d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>4b0d79f0-f8a7-4178-8149-055633681d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/icons/edit-pen-1.svg']</value>
+      <webElementGuid>5a16d085-d8f3-459f-a8c4-55584f0f4048</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

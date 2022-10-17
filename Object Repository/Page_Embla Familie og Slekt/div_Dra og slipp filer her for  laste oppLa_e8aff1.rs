@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dra og slipp filer her for  laste oppLa_e8aff1</name>
+   <tag></tag>
+   <elementGuidId>0478345c-2f87-4bd5-810f-2e2f15bdc55e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.upload-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>Get</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49232748-072a-4005-bf86-6a9b2bb94b14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>upload-container</value>
+      <webElementGuid>b7e79688-0f04-4d31-91c1-d44b0b8c83c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dra og slipp filer her for å laste oppLast opp GEDCOM-filer, filtype .GED 5MB MaksBla igjennom</value>
+      <webElementGuid>417b3510-2ac9-42b7-83ca-de5dbaa5200e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;mat-typography&quot;]/app-root[1]/div[@class=&quot;main-wrapper&quot;]/app-dialog[1]/div[1]/div[@class=&quot;dialog-container first-dialog active-dialog&quot;]/app-add-new-project-main[1]/div[1]/div[@class=&quot;tab-container app-dark-bg&quot;]/div[@class=&quot;tab-forms app-light-bg&quot;]/app-family-project-import-option[1]/div[@class=&quot;ft-form&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ft-form-row col1-v100&quot;]/div[@class=&quot;media-input-container border-outline&quot;]/div[@class=&quot;upload-container&quot;]</value>
+      <webElementGuid>effc96d6-27f7-4408-a821-238bd3325f6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtype'])[1]/following::div[3]</value>
+      <webElementGuid>29df0bd8-bf5b-46d6-8fd5-86203dbbc9ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Importer et familietre'])[2]/following::div[5]</value>
+      <webElementGuid>96671e2c-ec36-45e6-a2ae-c9c164cd3ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div</value>
+      <webElementGuid>7baa8a48-5e2e-47c9-85d2-ab7aad608d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dra og slipp filer her for å laste oppLast opp GEDCOM-filer, filtype .GED 5MB MaksBla igjennom' or . = 'Dra og slipp filer her for å laste oppLast opp GEDCOM-filer, filtype .GED 5MB MaksBla igjennom')]</value>
+      <webElementGuid>4caec93b-8d22-4e1e-b9a5-77cbe04370af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
